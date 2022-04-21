@@ -1,6 +1,419 @@
 {
-  "title": "SYSCONF¹⁶ | RC",
+  "title": "Retro Collection",
   "categories": [
+    {
+      "title": "Arcade",
+      "thumbnail": "https://raw.githubusercontent.com/webrcade/webrcade-default-feed/main/images/arcade-thum.png",
+      "background": "https://i.imgur.com/19g32P4.png",
+      "backgroundPixelated": true,
+      "longTitle": "Arcade",
+      "description": "An arcade game or coin-op game is a coin-operated entertainment machine typically installed in public businesses such as restaurants, bars and amusement arcades. Most arcade games are presented as primarily games of skill and include arcade video games, Pinball machines, electro-mechanical games, redemption games or merchandisers.",
+      "items": [
+        {
+          "title": "After Burner",
+          "longTitle": "After Burner",
+          "type": "sms",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/After%20Burner%20(World).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/After%20Burner%20(World).png",
+          "description": "The game allows the player to control a F-14 Tomcat jet which must destroy a series of enemy jets throughout 18 stages. At the start of the game, the player takes off from an aircraft carrier called the Sega Enterprise, which shares a similar name to the one used in the 1986 film Top Gun.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/6dnn3gmctydu8gb/After%20Burner%20%28World%29.sms"
+          },
+          "added": 1650565483471
+        },
+        {
+          "title": "Alex Kidd - The Lost Stars",
+          "longTitle": "Alex Kidd - The Lost Stars",
+          "type": "sms",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Alex%20Kidd%20-%20The%20Lost%20Stars%20(World).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Alex%20Kidd%20-%20The%20Lost%20Stars%20(World).png",
+          "description": "Alex Kidd: The Lost Stars features Alex Kidd and Stella searching for the twelve Zodiac signs.\nThe Master System version has infinite lives, though being hit or falling into a pit subtracts seconds in the timer and backtracks the player to the last checkpoint in the round.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/9osk01ka4wfi0le/Alex%20Kidd%20-%20The%20Lost%20Stars%20%28World%29.sms"
+          },
+          "added": 1650565483471
+        },
+        {
+          "title": "Altered Beast",
+          "longTitle": "Altered Beast",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Altered%20Beast%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Altered%20Beast%20(USA%2C%20Europe).png",
+          "description": "Altered Beast is a side scrolling, platform, beat 'em up game that puts the player in control of a centurion who had died in battle. The centurion has been raised from the dead to rescue Zeus' daughter Athena from the demon Neff. The player battles undead and demonic hordes, controlling the shapeshifting hero. He must fight through several levels in order to save the kidnapped goddess. Although 'Centurion' was a rank in the Roman Army, the game takes place in a setting resembling Ancient Greece, complete with gods, temples and ruined Ionic columns.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/jux5k4a2mgdpg1z/Altered%20Beast%20%28USA%2C%20Europe%29.md"
+          },
+          "added": 1650565483471
+        },
+        {
+          "title": "Bonanza Bros.",
+          "longTitle": "Bonanza Bros.",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Bonanza%20Bros.%20(USA%2C%20Europe%2C%20Korea)%20(Rev%20B).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Bonanza%20Bros.%20(USA%2C%20Europe%2C%20Korea)%20(Rev%20B).png",
+          "description": "As either Mobo or Robo, you must collect all the treasures before leaving the ten buildings and shoot any security guards that get in your way. Remember that you are under a time limit. An in-game map will help you locate the treasures. There is a bonus stage after three buildings, where the object is to collect the gold bars in a limited amount of time without one of the three spotlights shining on you. If it is possible, hide behind open doors. If you manage to get all the gold bars, 10,000 points is added to your score. There are three of these bonus stages, but each of them varies.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/nruy23qhaal40rm/Bonanza%20Bros.%20%28USA%2C%20Europe%2C%20Korea%29%20%28En%29%20%28Rev%20B%29.md"
+          },
+          "added": 1650565483471
+        },
+        {
+          "title": "Ghouls 'n Ghosts",
+          "longTitle": "Ghouls 'n Ghosts",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Daimakaimura%20(Japan%2C%20USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Daimakaimura%20(Japan%2C%20USA).png",
+          "description": "Arthur must venture back to the Lucifer's palace and destroy the demon in order to rescue the Princess' soul and bring her back to life! And it won't matter whether he fights in his shining armor or in his underwear alone...the bravest Knight in the land isn't going to be stopped by some monsters! Although the game starts with graveyard and marsh territory familiar from the first game, later levels are set in a tower, a mass of skeletons, and a castle.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/gp2xfgys57gzdtf/Daimakaimura%20~%20Ghouls%27n%20Ghosts%20%28Japan%2C%20USA%29%20%28En%29.md"
+          },
+          "added": 1650565483471
+        },
+        {
+          "title": "Donkey Kong 3",
+          "longTitle": "Donkey Kong 3",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Donkey%20Kong%203%20(World).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Donkey%20Kong%203%20(World).png",
+          "description": "Donkey Kong is at it again! This time he's loose in the greenhouse. And he's got company: a swarm of very pesky bees! It's up to you to get Donkey Kong out of the greenhouse and exterminate the bees... without hurting the flowers. But that's easier said than done! Because Donkey Kong has plenty of coconuts to hurl at you, and those bees know just where to sting you so it hurts. But, if you keep your wits about you, you'll score lots of points and have lots of laughs in the best Donkey Kong of them all... DONKEY KONG 3!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/3t8zm2qlbs9aiu1/Donkey%20Kong%203%20%28World%29.nes"
+          },
+          "added": 1650565483471
+        },
+        {
+          "title": "Donkey Kong Jr.",
+          "longTitle": "Donkey Kong Jr.",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Donkey%20Kong%20Jr.%20(World)%20(Rev%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Donkey%20Kong%20Jr.%20(World)%20(Rev%201).png",
+          "description": "After the events of Donkey Kong, Donkey Kong has been captured by Mario as revenge for kidnapping his girlfriend and Donkey Kong Jr. has to save him. Donkey Kong Jr. will travel through four stages from the jungle to the big city to get his father back, climbing vines, avoiding enemies and jumping on platforms along the way. However every time Donkey Kong Jr. gets close to freeing DK, Mario just pushes him further away.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/h4slf4vninjw50p/Donkey%20Kong%20Jr.%20%28World%29%20%28Rev%201%29.nes"
+          },
+          "added": 1650565483471
+        },
+        {
+          "title": "Double Dragon",
+          "longTitle": "Double Dragon",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Double%20Dragon%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Double%20Dragon%20(USA).png",
+          "description": "The player takes control of martial artist Billy Lee, or his twin brother Jimmy (also known as Hammer and Spike in the supplementary materials for the American arcade release), as they fight their way into the turf of the Black Warriors gang in order to rescue their common love interest Marian. The player character has a repertoire of martial art techniques which they can perform by using the joystick and three action buttons (kick, jump, and punch) individually or in combination. Techniques ranges from basic punches and kicks, to more elaborate maneuvers like hair grabbing moves or elbow punches. When playing with another player, one can assist the other by grabbing their partner's opponent from behind. The player begins the game with a certain number of extra lives and a life gauge which depletes as the player takes hits from enemies. If the life gauge runs out or the time limit reaches zero, the player will lose a life.\nThere is a small variety of enemy characters that the player will face thorough the course of the game. Certain enemies will carry a melee weapon which the player can use by disarming the enemy carrying it and then retrieving the item from the floor. The available weapons includes steel bats, whips, throwing knives, and dynamite sticks, as well as large objects such as cardboard boxes, oil drums, and rocks, which the player can lift and throw at enemies or kick it towards incoming ones.\nThe game is divided into four different stages or \"missions\", which consist of a city slum, a factory, the woods, and the hideout of the boss. The game normally ends if a single player defeats the final boss alone. However, if two players manage to complete the game together then the two will be forced to fight each other in order to determine who will win Marian's affections.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/kiy9urmo1fuylw0/Double%20Dragon%20%28USA%29.nes"
+          },
+          "added": 1650565483472
+        },
+        {
+          "title": "Double Dragon II - The Revenge",
+          "longTitle": "Double Dragon II - The Revenge",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Double%20Dragon%20II%20-%20The%20Revenge%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Double%20Dragon%20II%20-%20The%20Revenge%20(USA).png",
+          "description": "The arcade version of Double Dragon II: The Revenge begins with Marian, the heroine from the original Double Dragon, being shot to death by the leader of the Black Warriors. Once again, the player assume the role of brothers Billy and Jimmy Lee, who are now tasked with the duty of avenging Marian's death.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/z43tzjti3oo7k53/Double%20Dragon%20II%20-%20The%20Revenge%20%28USA%29.nes"
+          },
+          "added": 1650565483472
+        },
+        {
+          "title": "Double Dragon III - The Sacred Stones",
+          "longTitle": "Double Dragon III - The Sacred Stones",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Double%20Dragon%20III%20-%20The%20Sacred%20Stones%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Double%20Dragon%20III%20-%20The%20Sacred%20Stones%20(USA).png",
+          "description": "While returning to their home from a training trip, Billy and Jimmy Lee cross paths with a fortune teller named Hiruko. The fortune teller cryptically tells the brothers that they must collect the three \"Rosetta Stones\" scattered around the world in order to face a mysterious new adversary awaiting them in Egypt.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/t9ds3yrukupdado/Double%20Dragon%20III%20-%20The%20Sacred%20Stones%20%28USA%29.nes"
+          },
+          "added": 1650565483472
+        },
+        {
+          "title": "Fantasy Zone",
+          "longTitle": "Fantasy Zone",
+          "type": "sms",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Fantasy%20Zone%20(World)%20(Rev%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Fantasy%20Zone%20(World)%20(Rev%201).png",
+          "description": "In the space year 6216 , the Fantasy Zone was cast in panic at the collapse of the interplanetary monetary system. The Space Guild brings to light the plans of the planet Menon, whose forces are stealing the other planets' currencies to fund a huge fortress in the Fantasy Zone. \nOpa-Opa is sent to stop the invading army and discover who is behind it. In the end, it turns out that the leader was none other than Opa-Opa's long lost father, a revelation that leaves Opa-Opa with mixed emotions.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/9nwccoyft40adiz/Fantasy%20Zone%20%28World%29%20%28Rev%201%29.sms"
+          },
+          "added": 1650565483472
+        },
+        {
+          "title": "Galaga",
+          "longTitle": "Galaga",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Galaga%20(Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Galaga%20(Europe).png",
+          "description": "The objective of Galaga is to score as many points as possible by destroying insect-like enemies. The player controls a starfighter that can move left and right along the bottom of the playfield. Enemies swarm in groups in a formation near the top of the screen, and then begin flying down toward the player, firing bombs at the fighter. The game ends when the player's last fighter is lost, either by colliding with an enemy or one of its bullets, or by being captured.\nGalaga introduces a number of new features over its predecessor, Galaxian. Among these is the ability to fire more than one bullet at a time, a count of the player's \"hit/miss ratio\" at the end of the game, and a bonus \"Challenging Stage\" that occurs every few levels, in which a series of enemies fly onto and out of the screen in set patterns without firing at the player's ship or trying to crash into it. These stages award a large point bonus if the player manages to destroy every enemy.\nAnother gameplay feature new to Galaga is the ability for enemies to capture the player's fighter. While the player is in control of just one fighter, a \"boss Galaga\" (which takes two shots to kill) periodically attempts to capture the fighter using a tractor beam. If successful, the fighter joins the enemy formation. If the player has more lives remaining, play resumes with a new fighter. The captured fighter flies down with the enemy that captured it, firing upon the player just like normal enemies, and can be shot and destroyed. The player can free the fighter by destroying the boss Galaga while in flight, causing the captured fighter to link up with the player's current fighter, doubling his or her firepower but also making a target twice as large.\nGalaga has an exploitable bug that can cause the attackers to stop firing bullets at the player, due to a coding error. In addition, similar to the famous \"Split-Screen bug\" in Pac-Man, a bug exists in Galaga in which the game \"rolls over\" from Level 255 to Level 0. Depending on the difficulty setting of the machine, this can cause the game to stall, requiring that the machine be reset or power-cycled in order to start a new game.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/y10pfl4euerakpq/Galaga%20%28Europe%29.nes"
+          },
+          "added": 1650565483472
+        },
+        {
+          "title": "Golden Axe",
+          "longTitle": "Golden Axe",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Golden%20Axe%20(World)%20(Rev%20A).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Golden%20Axe%20(World)%20(Rev%20A).png",
+          "description": "The game takes place in the fictional land of Yuria, a Conan the Barbarian-style high fantasy medieval world. An evil entity known as Death Adder has captured the King and his daughter, and holds them captive in their castle. He also finds the Golden Axe, the magical emblem of Yuria, and threatens to destroy both the axe and the royal family unless the people of Yuria accept him as their ruler. The character of Death Adder and the stolen Golden Axe could well be traced to the historical event of the Acquisition of the True Cross during the Sassanid-Byzantine wars, as the Norse mythology is heavily influenced by Greek and Middle Eastern mythologies.\nThe player controls one of three Warriors. The first is a battle axe-wielding dwarf, Gilius Thunderhead, from the mines of Wolud, whose twin brother was killed by the soldiers of Death Adder. Another is a male barbarian, Ax Battler, wielding a two handed broadsword looking for revenge for the murder of his mother. The last is a long-sword-wielding Tyris Flare, an amazon, whose parents were both killed by Death Adder.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/avhlm5es5guoxw9/Golden%20Axe%20%28World%29%20%28Rev%20A%29.md"
+          },
+          "added": 1650565483472
+        },
+        {
+          "title": "Gradius",
+          "longTitle": "Gradius",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Gradius%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Gradius%20(USA).png",
+          "description": "One of the defining characteristics of the Gradius series is the use of a \"power meter.\" The power meter is powered by a power-up item, whose purpose, when collected, is to move a highlight to the next power-up on the power meter. When a power-up that the player wants becomes highlighted, he or she may activate it, also causing the highlight to reset.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/9twrdemyogne159/Gradius%20%28USA%29.nes"
+          },
+          "added": 1650565483472
+        },
+        {
+          "title": "Mario Bros.",
+          "longTitle": "Mario Bros.",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Mario%20Bros.%20(World).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Mario%20Bros.%20(World).png",
+          "description": "Mario and Luigi are doing some underground plumbing when all sorts of weird creatures come flying out of the pipes. Turtles, crabs - even fighterflies - attack the helpless Mario Bros. It's up to you to kick, punch, and knock out these sewer pests before time runs out! But beware. Just when you think you got rid of them, they come back for more! Play against the computer, or with a friend - either way, this is one underground classic you'll want to play time and time again!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/thjmgzxabwwij6o/Mario%20Bros.%20%28World%29.nes"
+          },
+          "added": 1650565483472
+        },
+        {
+          "title": "Mortal Kombat",
+          "longTitle": "Mortal Kombat",
+          "type": "snes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/Mortal%20Kombat%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/Mortal%20Kombat%20(USA).png",
+          "description": "The series takes place in a fictional universe that consists of six surviving realms which, according to in-game backstories, were created by the Elder Gods. The Mortal Kombat: Deception manual described the six realms as: \"Earthrealm, home to such legendary heroes as Johnny Cage, Sonya Blade, Liu Kang, and Jax, and also under the protection of the Thunder God Raiden; Netherrealm, which fiery depths are inhospitable to but the most vile, a realm of demons and shadowy warriors; Outworld, a realm of constant strife and where Emperor Shao Kahn claims this realm as his own; Seido, The Realm of Order, whose inhabitants prize structure and order above all else; The Realm of Chaos, whose inhabitants do not abide by any rules whatsoever, where constant turmoil and change are worshipped here; and Edenia, which is known for its beauty, artistic expression, and longevity of its inhabitants.\"",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/io2qcac6d3k2tn8/Mortal%20Kombat%20%28USA%29.sfc"
+          },
+          "added": 1650565483472
+        },
+        {
+          "title": "Mortal Kombat 3",
+          "longTitle": "Mortal Kombat 3",
+          "type": "snes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/Mortal%20Kombat%203%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/Mortal%20Kombat%203%20(USA).png",
+          "description": "Fed up with continuous losses in tournament battle, Shao Kahn, who had lost to Liu Kang in the Outworld tournament, enacts a 10,000 year-old plan. He would have his Shadow Priests, led by Shang Tsung, revive his former Queen Sindel, who unexpectedly died at a young age. However, she wouldn't be revived in the Outworld. She would be resurrected in the Earthrealm. This would allow Shao Kahn to cross the boundary lines and reclaim his queen.\nWhen Sindel is reincarnated in Earthrealm, Shao Kahn reaches across the dimensions to reclaim her. As a consequence of his action, the Earthrealm becomes a part of the Outworld, instantly stripping billions of their souls. Only a few are spared, as Raiden protects their souls. He tells them that Shao Kahn must be stopped, but he cannot interfere; due to his status, he has no power in Outworld, and Earthrealm is partially merged with Outworld.\nShao Kahn has unleashed extermination squads to roam throughout the Earthrealm and kill any survivors. Also, Raiden's protection only extends to the soul, not to the body, so his chosen warriors have to fight the extermination squads and repel Shao Kahn. Eventually with his final defeat, every human on Earthrealm comes back.\nMortal Kombat 3 follows Mortal Kombat II and shares continuity with both Ultimate Mortal Kombat 3 and Mortal Kombat Trilogy which were both updates of this game. The next new game in the series was Mortal Kombat 4.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/kda1doqh7ksml16/Mortal%20Kombat%203%20%28USA%29.sfc"
+          },
+          "added": 1650565483472
+        },
+        {
+          "title": "Ms. Pac-Man",
+          "longTitle": "Ms. Pac-Man",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Ms.%20Pac-Man%20(USA)%20(Namco).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Ms.%20Pac-Man%20(USA)%20(Namco).png",
+          "description": "The gameplay of Ms. Pac-Man is largely identical to that of the original Pac-Man. The player gathers points by eating dots and avoiding ghosts (contact with one loses a life). Power-pellets or energizers change the ghosts, which reverse their course and can be eaten for bonus points. Fruit bonuses can be consumed for increasing point values, twice per level.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/7o2s81mfagsehui/Ms.%20Pac-Man%20%28USA%29%20%28Namco%29.nes"
+          },
+          "added": 1650565483472
+        },
+        {
+          "title": "NBA Jam - Tournament Edition",
+          "longTitle": "NBA Jam - Tournament Edition",
+          "type": "snes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/NBA%20Jam%20-%20Tournament%20Edition%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/NBA%20Jam%20-%20Tournament%20Edition%20(USA).png",
+          "description": "NBA JAM Tournament Edition brings you more senses-shattering slam dunking excitement than ever! More than twice as many NBA superstars, more than double the secret characters, Hot Spots, Super Jam Power-Ups, battery back-up and - OH MY - nine all-new rim-rattling slam dunks plus all the original jams! NBA JAM Tournament Edition... it's on FIRE!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/jzj162dbj83nahp/NBA%20Jam%20-%20Tournament%20Edition%20%28USA%29.sfc"
+          },
+          "added": 1650565483472
+        },
+        {
+          "title": "Ninja Gaiden",
+          "longTitle": "Ninja Gaiden",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Ninja%20Gaiden%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Ninja%20Gaiden%20(USA).png",
+          "description": "Ryu Hayabusa of the Dragon Ninja Clan receives a letter from his father, saying that he was leaving for a duel with an unknown warrior. Should he not return, Ryu was to go to America and seek a man named Walter Smith. Ryu honors his father's last request, and travels to America. While there, he is kidnapped by a CIA agent and given a statue of a hideous beast.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/0qv2owlu8u0816q/Ninja%20Gaiden%20%28USA%29.nes"
+          },
+          "added": 1650565483472
+        },
+        {
+          "title": "OutRun",
+          "longTitle": "OutRun",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/OutRun%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/OutRun%20(USA%2C%20Europe).png",
+          "description": "Barrel down the straightaway and bank your way into turns as you master the world's most challenging raceway. Race at top speed towards the finish line. Enjoy such realistic features as acceleration, lane changes, diversified terrain, sudden curves, and much more. Outrun is not just a test of who can drive the fastest, it's also a matter of who can plan the best race strategy and execute it flawlessly. Each race is different and demands a new strategy.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/20a8tmb6lif68rg/OutRun%20%28USA%2C%20Europe%29.md"
+          },
+          "added": 1650565483472
+        },
+        {
+          "title": "Samurai Shodown",
+          "longTitle": "Samurai Shodown",
+          "type": "snes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/Samurai%20Shodown%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/Samurai%20Shodown%20(USA).png",
+          "description": "In early Japan, a man named Shiro Tokisada Amakusa preaches a heretic religion. Little does anyone know that Amakusa is really a servant of the evil Ambrosia, who took over Amakusa's body. Ambrosia wishes to shroud the world in darkness.\nNow, choose between 12 warriors (and 3 bonus characters) to fight for the honor of destroying Amakusa, and fulfilling a mission.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/mhxqwureus9ma97/Samurai%20Shodown%20%28USA%29.sfc"
+          },
+          "added": 1650565483472
+        },
+        {
+          "title": "Shinobi",
+          "longTitle": "Shinobi",
+          "type": "sms",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Shinobi%20(USA%2C%20Europe%2C%20Brazil)%20(Rev%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Shinobi%20(USA%2C%20Europe%2C%20Brazil)%20(Rev%201).png",
+          "description": "Shinobi is about a ninja named Joe Musashi who has to stop a criminal organization called \"Zeed\" who are kidnapping the children of the Oboro clan. Through five missions, each with three or four stages, Musashi must make his way to Zeed's headquarters and free all the hostages before confronting the bosses at the final stage of each mission. Below is a description of each boss.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/3tocjo9jxs2gmj9/Shinobi%20%28USA%2C%20Europe%2C%20Brazil%29%20%28En%29%20%28Rev%201%29.sms"
+          },
+          "added": 1650565483472
+        },
+        {
+          "title": "Space Harrier II",
+          "longTitle": "Space Harrier II",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Space%20Harrier%20II%20(World).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Space%20Harrier%20II%20(World).png",
+          "description": "In the year 6236, Harrier once again receives a call for help, this time from the 214th sector, light-years from his cruiser. Harrier travels there quickly with his \"cosmic gate\", and finds that Fantasy Land is in overrun by hostile forces. He resolves to once again save a world by fighting off the entire force himself.\n\nThere are a total of 12 stages, each with its own end boss. A stage usually consists of different landscapes (small objects vs. large objects), and can also move at different speeds (slow vs fast). Some stages, such as Stuna Area, have a mid-level boss that can be easily defeated. Although the player can select any stage to start the game at, all twelve levels must be completed before moving on to the Final Chapter stage. It is here that the player must defeat all the main bosses over again, and then fight the Dark Harrier.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/34wwr7thj4v4xex/Space%20Harrier%20II%20%28World%29.md"
+          },
+          "added": 1650565483472
+        },
+        {
+          "title": "Street Fighter Alpha 2",
+          "longTitle": "Street Fighter Alpha 2",
+          "type": "snes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/Street%20Fighter%20Alpha%202%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/Street%20Fighter%20Alpha%202%20(USA).png",
+          "description": "DO YOU HAVE WHAT IT TAKES?\n\nThe bad boys from the Street Fighter series are back for more fisticuffs of fury! Eighteen different combatants, some old and some new, are here to lay claim to the title \"World's Best\". Screamin' moves like Ken's Dragon Punch, Adon's Jaguar Tooth and M. Bison's Somersault Skull Driver will blow you away! Play alone or pummel a friend in two-player simultaneous action. This ain't no cakewalk. This ain't no cakewalk. This is Street Fighter Alpha 2 and it's blazing on your Super NES!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/2928ltzykhgemrs/Street%20Fighter%20Alpha%202%20%28USA%29.sfc"
+          },
+          "added": 1650565483472
+        },
+        {
+          "title": "Street Fighter II Turbo",
+          "longTitle": "Street Fighter II Turbo",
+          "type": "snes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/Street%20Fighter%20II%20Turbo%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/Street%20Fighter%20II%20Turbo%20(USA).png",
+          "description": "The second SNES version by Capcom, titled Street Fighter II Turbo. The primary game mode in this version is \"Turbo\" mode, which is based on the arcade version of Hyper Fighting. It allows players to adjust the game's speed from zero (normal) to four stars, with six additional speed settings available via a cheat code. A secondary game mode called \"Normal\" is also available, which is based on the arcade version of Champion Edition. In versus mode, a menu which allows players to disable any of the characters' special moves can be accessed via a cheat code.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/9fs3pjfz6tmlxrm/Street%20Fighter%20II%20Turbo%20%28USA%29.sfc"
+          },
+          "added": 1650565483472
+        },
+        {
+          "title": "Super Hang-On",
+          "longTitle": "Super Hang-On",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Super%20Hang-On%20(Europe)%20(En%2CJa)%20(Rev%20A).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Super%20Hang-On%20(Europe)%20(En%2CJa)%20(Rev%20A).png",
+          "description": "Super Hang-On is a 1987 motorcycle racing arcade game from Sega, and the sequel to the acclaimed Hang-On. A version of this game, in the full simulated-motorcycle cabinet used by the original Hang-On was released in 1991 as Limited Edition Hang-On.\n\nIt was released for the Sega Mega Drive/Genesis, Commodore Amiga, Atari ST, Macintosh, ZX Spectrum, Amstrad CPC and Commodore 64 in 1989. Super Hang-On was also released for the Sharp X68000 computer in Japan. The game also appeared on several Mega Drive compilations, namely Mega Games I (bundled with the console as Mega Drive Magnum Set), and Sega Genesis Six Pack. It is also released from its arcade version on the Wii Virtual Console in Japan on September 14, 2010. The Genesis port, according to Eurogamer, is slated for a European release on the Wii Virtual Console and the Playstation Network.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/k4z9p19e2zvwr7c/Super%20Hang-On%20%28Europe%29%20%28En%2CJa%29%20%28Rev%20A%29.md"
+          },
+          "added": 1650565483473
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles II - The Arcade Game",
+          "longTitle": "Teenage Mutant Ninja Turtles II - The Arcade Game",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Teenage%20Mutant%20Ninja%20Turtles%20II%20-%20The%20Arcade%20Game%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Teenage%20Mutant%20Ninja%20Turtles%20II%20-%20The%20Arcade%20Game%20(USA).png",
+          "description": "Yo! After being treated like garbage by the Ninja Turtles, Shredder has trained a new, more merciless breed of Foot Soldiers to inflict his revenge: A clan of over 700 Taekwondo turtle terminators who have once again captured April O'Neil to use as turtle bait. Fortunately you don't have to face these freaks of torture alone. For the first time ever, two dudes or dudettes can join forces and double-team Shredder, kicking shell while covering each others tails. But to survive you've gotta fight through 8 action-packed arcade levels, including Vinnie's Valet \"Stalking\" Lot and the Soho Sewer System, plus two new never-before-seen shell-squashing stages! Each of these deathtraps is reinforced by lethal electro zappers, laser beams, freezer burners or enemies such as Scorpion Robots, Stone Warriors and Baxter Stockman. Shredder has also hired the all-powerful Tora and Shogun, two alien bounty hunters who have never known defeat. Even though Master Splinter has prepared the turtles well for battle, teaching them radical new attack moves, it doesn't mean this war to save April and turtlekind will be a piece of cake or even a slice of pizza. Because with the forces of revenge on his side and the bounty boys in town, it's payback time for Shredder!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/rfhmwdzmoufm32g/Teenage%20Mutant%20Ninja%20Turtles%20II%20-%20The%20Arcade%20Game%20%28USA%29.nes"
+          },
+          "added": 1650565483473
+        },
+        {
+          "title": "TwinBee",
+          "longTitle": "TwinBee",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/TwinBee%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/TwinBee%20(Japan).png",
+          "description": "TwinBee is a cartoon-themed vertical-scrolling shoot 'em up game originally released by Konami as a coin-operated video game in 1985 in Japan. It was the very first game to run on Konami's Bubble System hardware. TwinBee was ported to the Family Computer and MSX in 1986 and has been included in numerous compilations released in later years. The original arcade game was released outside Japan for the first time in the Nintendo DS compilation Konami Classics Series: Arcade Hits. A mobile phone version was released for i-mode Japan phones in 2003 with edited graphics.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/48j9z4yb8qjztoy/TwinBee%20%28Japan%29.nes"
+          },
+          "added": 1650565483473
+        },
+        {
+          "title": "Wonder Boy in Monster World",
+          "longTitle": "Wonder Boy in Monster World",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Wonder%20Boy%20in%20Monster%20World%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Wonder%20Boy%20in%20Monster%20World%20(USA%2C%20Europe).png",
+          "description": "Wonder Boy In Monster World puts you in control of Shion in his quest to save Monster World from the evil BioMeka. It controls like your standard platform game: run, jump, and kill enemies. The game is filled with RPG elements such as talking to townsfolk, collecting money to buy items, extending your life bar, and equipping a large variety of armor, weapons and magic.\n\nShion travels through the many interconnected regions of Monster World, all the while collecting increasingly powerful equipment in the form of many different swords, spears, shields, suits of armor, and boots.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/4tp49i5gl15m9m0/Wonder%20Boy%20in%20Monster%20World%20%28USA%2C%20Europe%29.md"
+          },
+          "added": 1650565483473
+        },
+        {
+          "title": "Xevious",
+          "longTitle": "Xevious",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Xevious%20(Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Xevious%20(Europe).png",
+          "description": "The player uses an 8-way joystick to pilot a combat aircraft called a Solvalou, which is armed with a forward-firing Zapper for aerial targets and a Blaster which fires an unlimited supply of air-to-surface bombs for ground targets. The game, presumably set in Peru, was noted for the varied terrain below, which included forests, airstrips, bases, and mysterious Nazca Line-like drawings on the ground",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/kmma75r20gi10kg/Xevious%20%28Europe%29.nes"
+          },
+          "added": 1650565483473
+        }
+      ]
+    },
     {
       "title": "NES",
       "items": [
@@ -235,7 +648,8 @@
           "props": {
             "rom": "https://dl.dropboxusercontent.com/s/rh110ekm6sth5g8/EarthBound%20Beginnings%20%28USA%2C%20Europe%29%20%28Virtual%20Console%29.nes"
           },
-          "added": 1644666667782
+          "added": 1644666667782,
+          "description": "EarthBound Beginnings is the first installment in the Mother series. It was developed by Ape Inc., Nintendo Tokyo R&D Products, and Pax Softnica, and was published by Nintendo for the Famicom on July 27, 1989.\nOn June 14, 2015, 25 years after being released in Japan, Earthbound Beginnings was released in North America and Europe for the first time on the Wii U Virtual Console. It was later announced via Nintendo Direct on February 9, 2022, that EarthBound Beginnings would be released on the Nintendo Entertainment System app produced by Nintendo Switch Online."
         },
         {
           "title": "Excitebike",
@@ -761,7 +1175,7 @@
       "longTitle": "Nintendo Entertainment System",
       "description": "The Nintendo Entertainment System (NES) is an 8-bit third-generation home video game console produced by Nintendo. It was first released as the Family Computer (FC), commonly known as the Famicom, in 1983 in Japan. The NES, a redesigned version, was released in American test markets in October 1985, before becoming widely available in the rest of North America and other countries.",
       "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/nes-thumb.png",
-      "background": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/NES-Console-Set.jpg/2560px-NES-Console-Set.jpg",
+      "background": "https://upload.wikimedia.org/wikipedia/commons/b/b2/NES-Console-Set.png",
       "backgroundPixelated": true
     },
     {
@@ -1407,7 +1821,7 @@
       ],
       "longTitle": "Super Nintendo Entertainment System",
       "description": "The Super Nintendo Entertainment System (SNES), commonly shortened to Super NES or Super Nintendo, is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan and South Korea, 1991 in North America, 1992 in Europe and Oceania, and 1993 in South America. In Japan, it is called the Super Famicom (SFC). In South Korea, it is called the Super Comboy and was distributed by Hyundai Electronics. The system was released in Brazil on August 30, 1993, by Playtronic. Although each version is essentially the same, several forms of regional lockout prevent cartridges for one version from being used in other versions.",
-      "background": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Nintendo-Super-Famicom-Set-FL.jpg",
+      "background": "https://i.imgur.com/yGoeQxD.png",
       "backgroundPixelated": true,
       "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/snes-thumb.png"
     },
@@ -1727,6 +2141,19 @@
           "added": 1644679891055
         },
         {
+          "title": "Tetris",
+          "longTitle": "Tetris",
+          "type": "gb",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gb-images/master/Named_Snaps/output/Tetris%20(World)%20(Rev%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gb-images/master/Named_Titles/resized/Tetris%20(World)%20(Rev%201).png",
+          "description": "This version of Tetris is one of many conversions of the famous block-stacking game, and was included with the Game Boy upon its release in several territories. The goal is to place pieces made up of four tiles in a ten-by-twenty well, organizing them into complete rows, which then disappear. As rows are cleared, the pace of the game increases and the background changes, and the game ends if the stack reaches the top of the well.  The game is very similar to Nintendo's own NES version of the game, featuring the same \"Type A\" endless and \"Type B\" set-clear modes. The game also features a 2-player versus mode that can be played with two Game Boys, two copies of Tetris, and a Game Boy link cable. Clearing lines in this mode will cause the other player's stack to rise, with the goal being to make the other player lose.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/i67kayv2wqt7u7n/Tetris%20%28World%29%20%28Rev%201%29.gb"
+          },
+          "added": 1650565341059
+        },
+        {
           "title": "Tetris Plus",
           "longTitle": "Tetris Plus",
           "type": "gb",
@@ -1794,7 +2221,7 @@
       ],
       "longTitle": "Game Boy",
       "description": "The Game Boy is an 8-bit handheld game console developed and manufactured by Nintendo. The first handheld in the Game Boy family, it was first released in Japan on April 21, 1989. The console was released in North America later the same year, then in Europe in late 1990. It was designed by the same team that developed the Game & Watch series of handheld electronic games and several Nintendo Entertainment System games: Satoru Okada, Gunpei Yokoi, and Nintendo Research & Development 1.",
-      "background": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
+      "background": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Game-Boy-FL.png",
       "backgroundPixelated": true,
       "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gb-thumb.png"
     },
@@ -2190,7 +2617,7 @@
         },
         {
           "props": {
-            "rom": "https://dl.dropboxusercontent.com/s/2zhdltjw9lxjn1b/Fire%20Emblem%20-%20The%20Sacred%20Stones%20%28USA%2C%20Australia%29.gba"
+            "rom": "https://www.dropbox.com/s/tf7uxtksr125jom/Fire%20Emblem%20-%20The%20Sacred%20Stones%20%28USA%2C%20Australia%29.gba"
           },
           "type": "gba",
           "title": "Fire Emblem - The Sacred Stones",
@@ -2255,7 +2682,7 @@
         },
         {
           "props": {
-            "rom": "https://dl.dropboxusercontent.com/s/tpq0dx1ct1c3l55/Kirby%20-%20Nightmare%20in%20Dream%20Land%20%28USA%29.gba"
+            "rom": "https://www.dropbox.com/s/vqh233iaht2ad65/Kirby%20-%20Nightmare%20in%20Dream%20Land%20%28USA%29.gba"
           },
           "type": "gba",
           "title": "Kirby - Nightmare in Dream Land",
@@ -2268,7 +2695,7 @@
         },
         {
           "props": {
-            "rom": "https://dl.dropboxusercontent.com/s/woijttsnwhq9hs3/Kirby%20%26%20The%20Amazing%20Mirror%20%28USA%29.gba"
+            "rom": "https://www.dropbox.com/s/0kd00vmhu3px2c8/Kirby%20%26%20The%20Amazing%20Mirror%20%28USA%29.gba"
           },
           "type": "gba",
           "title": "Kirby & The Amazing Mirror",
@@ -2333,7 +2760,7 @@
         },
         {
           "props": {
-            "rom": "https://dl.dropboxusercontent.com/s/1nx2rcqgegsgunm/Mario%20Party%20Advance%20%28USA%29.gba"
+            "rom": "https://www.dropbox.com/s/g5xqid0bhagylnc/Mario%20Party%20Advance%20%28USA%29.gba"
           },
           "type": "gba",
           "title": "Mario Party Advance",
@@ -2346,7 +2773,7 @@
         },
         {
           "props": {
-            "rom": "https://dl.dropboxusercontent.com/s/yqijtkz6l0hiz7r/Mario%20Tennis%20-%20Power%20Tour%20%28USA%2C%20Australia%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba"
+            "rom": "https://www.dropbox.com/s/0zh9yeyb52c3hdh/Mario%20Tennis%20-%20Power%20Tour%20%28USA%2C%20Australia%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba"
           },
           "type": "gba",
           "title": "Mario Tennis - Power Tour",
@@ -2424,7 +2851,7 @@
         },
         {
           "props": {
-            "rom": "https://dl.dropboxusercontent.com/s/4e8vyl24ce6zd8n/Pokemon%20-%20Emerald%20Version%20%28USA%2C%20Europe%29.gba"
+            "rom": "https://www.dropbox.com/s/1c8wxvaywp6xpqb/Pokemon%20-%20Emerald%20Version%20%28USA%2C%20Europe%29.gba"
           },
           "type": "gba",
           "title": "Pokémon - Emerald Version",
@@ -2463,7 +2890,7 @@
         },
         {
           "props": {
-            "rom": "https://dl.dropboxusercontent.com/s/yxrqbe7vcoq52sj/Pokemon%20Mystery%20Dungeon%20-%20Red%20Rescue%20Team%20%28USA%2C%20Australia%29.gba"
+            "rom": "https://www.dropbox.com/s/5o62qt5pi8gv5ge/Pokemon%20Mystery%20Dungeon%20-%20Red%20Rescue%20Team%20%28USA%2C%20Australia%29.gba"
           },
           "type": "gba",
           "title": "Pokémon Mystery Dungeon - Red Rescue Team",
@@ -2659,7 +3086,7 @@
       ],
       "longTitle": "Game Boy Advance",
       "description": "The Game Boy Advance (GBA) is a 32-bit handheld game console developed, manufactured and marketed by Nintendo as the successor to the Game Boy Color. It was released in Japan on March 21, 2001, in North America on June 11, 2001, in the PAL region on June 22, 2001, and in mainland China as iQue Game Boy Advance on June 8, 2004. The GBA is part of the sixth generation of video game consoles. The original model does not have an illuminated screen; Nintendo addressed that with the release of a redesigned model with a frontlit screen, the Game Boy Advance SP, in 2003. A newer revision of the redesign was released in 2005, with a backlit screen. Around the same time, the final redesign, the Game Boy Micro, was released in September 2005.",
-      "background": "https://upload.wikimedia.org/wikipedia/commons/9/98/Nintendo-Game-Boy-Advance-Milky-Blue-FL.jpg",
+      "background": "https://upload.wikimedia.org/wikipedia/commons/6/68/Nintendo-Game-Boy-Advance-Milky-Blue-FL.png",
       "backgroundPixelated": false,
       "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gba-thumb.png"
     },
@@ -2786,7 +3213,7 @@
       ],
       "longTitle": "Sega Master System",
       "description": "The Master System is a third-generation 8-bit home video game console manufactured by Sega. It was originally a remodeled export version of the Sega Mark III, the third iteration of the SG-1000 series of consoles, which was released in Japan in 1985 and featured enhanced graphical capabilities over its predecessors. The Master System launched in North America in 1986, followed by Europe in 1987, and Brazil in 1989. A Japanese version of the Master System was also launched in 1987, which features a few enhancements over the export models (and by proxy the original Mark III): a built-in FM audio chip, a rapid-fire switch, and a dedicated port for the 3D glasses. The Master System II, a cheaper model, was released in 1990 in North America, Australia and Europe.",
-      "background": "https://upload.wikimedia.org/wikipedia/commons/8/88/Sega-Master-System-Set.jpg",
+      "background": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sega-Master-System-Set.png",
       "backgroundPixelated": true,
       "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/mastersystem-thumb.png"
     },
@@ -2818,32 +3245,6 @@
             "rom": "https://dl.dropboxusercontent.com/s/zgeoqgg83co4xmn/Asterix%20and%20the%20Great%20Rescue%20%28USA%29.md"
           },
           "added": 1644752179304
-        },
-        {
-          "title": "Streets of Rage II",
-          "longTitle": "Streets of Rage II",
-          "type": "genesis",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Bare%20Knuckle%20II%20-%20Shitou%20e%20no%20Requiem%20(Japan%2C%20Europe)%20(En%2CJa).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Bare%20Knuckle%20II%20-%20Shitou%20e%20no%20Requiem%20(Japan%2C%20Europe)%20(En%2CJa).png",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://dl.dropboxusercontent.com/s/lg48lmajgaf4ts0/Bare%20Knuckle%20II%20-%20Shitou%20e%20no%20Requiem%20~%20Streets%20of%20Rage%20II%20%28Japan%2C%20Europe%29%20%28En%2CJa%29.md"
-          },
-          "added": 1647790331343,
-          "description": "Streets of Rage 2 is a 1992 side-scrolling beat 'em up video game published by Sega for the Mega Drive. A sequel to Streets of Rage, the characters Axel Stone and Blaze Fielding return while the game also introduces two new characters: Max \"Thunder\" Hatchet and Eddie \"Skate\" Hunter, the younger brother of Adam Hunter from the first game."
-        },
-        {
-          "title": "Streets of Rage III",
-          "longTitle": "Streets of Rage III",
-          "type": "genesis",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Bare%20Knuckle%20III%20(Japan).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Bare%20Knuckle%20III%20(Japan).png",
-          "description": "In part three of the Streets of Rage series, Mr. X is back and this time his plan involves replacing public officials with his own robots. Only Axel, Blaze, Skate, and new-comer Dr. Zan can stop him. Streets of Rage 3 features all of the beat 'em up action you would expect from a Streets of Rage game. One new feature is the special move power bar, where it only costs energy to do a special move if the bar isn't full. Also new is the ability to do special maneuvers with different weapons, depending on the character. For example, Skate has no special move with the pipe, but does have one with the knife. The opposite is true for Axel. Any weapon Dr. Zan picks up is turned into energy balls which he can throw at the enemies. Secret characters and multiple endings add replay value.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://dl.dropboxusercontent.com/s/zsvllwtb070twws/Bare%20Knuckle%20III%20%28Japan%29.md"
-          },
-          "added": 1647790331343
         },
         {
           "title": "Beast Wrestler",
@@ -3210,12 +3611,38 @@
           "description": "Streets of Rage is a beat 'em up game developed and published by Sega for the Genesis in 1991. Players control one of three police officers who battle a crime syndicate. Streets of Rage establishes many conventions of the Streets of Rage series, such as two-player cooperative play and a acclaimed techno soundtrack from composer Yuzo Koshiro. It was ported for the Game Gear, Sega CD and Master System and has been rereleased as part of various compilations and on download services."
         },
         {
+          "title": "Streets of Rage II",
+          "longTitle": "Streets of Rage II",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Bare%20Knuckle%20II%20-%20Shitou%20e%20no%20Requiem%20(Japan%2C%20Europe)%20(En%2CJa).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Bare%20Knuckle%20II%20-%20Shitou%20e%20no%20Requiem%20(Japan%2C%20Europe)%20(En%2CJa).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/lg48lmajgaf4ts0/Bare%20Knuckle%20II%20-%20Shitou%20e%20no%20Requiem%20~%20Streets%20of%20Rage%20II%20%28Japan%2C%20Europe%29%20%28En%2CJa%29.md"
+          },
+          "added": 1647790331343,
+          "description": "Streets of Rage 2 is a 1992 side-scrolling beat 'em up video game published by Sega for the Mega Drive. A sequel to Streets of Rage, the characters Axel Stone and Blaze Fielding return while the game also introduces two new characters: Max \"Thunder\" Hatchet and Eddie \"Skate\" Hunter, the younger brother of Adam Hunter from the first game."
+        },
+        {
+          "title": "Streets of Rage III",
+          "longTitle": "Streets of Rage III",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Bare%20Knuckle%20III%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Bare%20Knuckle%20III%20(Japan).png",
+          "description": "In part three of the Streets of Rage series, Mr. X is back and this time his plan involves replacing public officials with his own robots. Only Axel, Blaze, Skate, and new-comer Dr. Zan can stop him. Streets of Rage 3 features all of the beat 'em up action you would expect from a Streets of Rage game. One new feature is the special move power bar, where it only costs energy to do a special move if the bar isn't full. Also new is the ability to do special maneuvers with different weapons, depending on the character. For example, Skate has no special move with the pipe, but does have one with the knife. The opposite is true for Axel. Any weapon Dr. Zan picks up is turned into energy balls which he can throw at the enemies. Secret characters and multiple endings add replay value.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/zsvllwtb070twws/Bare%20Knuckle%20III%20%28Japan%29.md"
+          },
+          "added": 1647790331343
+        },
+        {
           "title": "Super Fantasy Zone",
           "longTitle": "Super Fantasy Zone",
           "type": "genesis",
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Super%20Fantasy%20Zone%20(USA)%20(Ja)%20(Genesis%20Mini).png",
           "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Super%20Fantasy%20Zone%20(USA)%20(Ja)%20(Genesis%20Mini).png",
-          "description": "The next-gen sequel to Fantasy Zone, Super Fantasy Zone starts as a strange gravitational force appears in the Menon planet, home of the evil Menon empire and thus a new threat looms over the Fantasy Zone.\n\nIn a sudden strike by the Menon forces O-Papa, Opa-Opa's father, is fatally wounded. Thus Opa-Opa once again sets forth to destroy the Menon empire and avenge his father.\n\nEU release",
+          "description": "The next-gen sequel to Fantasy Zone, Super Fantasy Zone starts as a strange gravitational force appears in the Menon planet, home of the evil Menon empire and thus a new threat looms over the Fantasy Zone.\n\nIn a sudden strike by the Menon forces O-Papa, Opa-Opa's father, is fatally wounded. Thus Opa-Opa once again sets forth to destroy the Menon empire and avenge his father.",
           "backgroundPixelated": true,
           "props": {
             "rom": "https://dl.dropboxusercontent.com/s/h3d9fw2a8bu3xfs/Super%20Fantasy%20Zone%20%28USA%29%20%28Ja%29%20%28Genesis%20Mini%29.md"
@@ -3351,11 +3778,24 @@
             "rom": "https://dl.dropboxusercontent.com/s/fy2ej78z2142d9d/Zero%20Wing%20%28Europe%29.md"
           },
           "added": 1644752179308
+        },
+        {
+          "title": "Wonder Boy in Monster World",
+          "longTitle": "Wonder Boy in Monster World",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Wonder%20Boy%20in%20Monster%20World%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Wonder%20Boy%20in%20Monster%20World%20(USA%2C%20Europe).png",
+          "description": "Wonder Boy In Monster World puts you in control of Shion in his quest to save Monster World from the evil BioMeka. It controls like your standard platform game: run, jump, and kill enemies. The game is filled with RPG elements such as talking to townsfolk, collecting money to buy items, extending your life bar, and equipping a large variety of armor, weapons and magic.\n\nShion travels through the many interconnected regions of Monster World, all the while collecting increasingly powerful equipment in the form of many different swords, spears, shields, suits of armor, and boots.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropboxusercontent.com/s/elqroa9gyl45hp3/Wonder%20Boy%20in%20Monster%20World%20%28USA%2C%20Europe%29.md"
+          },
+          "added": 1650565399370
         }
       ],
       "longTitle": "Sega Mega Drive",
       "description": "The Sega Genesis, known as the Mega Drive outside North America, is a 16-bit fourth-generation home video game console developed and sold by Sega. The Genesis was Sega's third console and the successor to the Master System. Sega released it in 1988 in Japan as the Mega Drive, and in 1989 in North America as the Genesis. In 1990, it was distributed as the Mega Drive by Virgin Mastertronic in Europe, Ozisoft in Australia, and Tec Toy in Brazil. In South Korea, it was distributed by Samsung as the Super Gam*Boy and later the Super Aladdin Boy. In Russia, it was distributed by Forrus.",
-      "background": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Sega-Mega-Drive-JP-Mk1-Console-Set.jpg",
+      "background": "https://upload.wikimedia.org/wikipedia/commons/b/be/Sega-Mega-Drive-JP-Mk1-Console-Set.png",
       "backgroundPixelated": true,
       "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/genesis-thumb.png"
     },
@@ -3482,7 +3922,7 @@
           "description": "Sonic Drift is a 1994 racing video game developed and published by Sega for the Game Gear in Japan. It features Sonic the Hedgehog, Miles \"Tails\" Prower, Amy Rose, and Doctor Robotnik.",
           "background": "https://upload.wikimedia.org/wikipedia/en/e/ee/Sonic_Drift_game_screenshot.png",
           "backgroundPixelated": true,
-          "thumbnail": "https://www.gamesdatabase.org/Media/SYSTEM/Sega_Game_Gear/Title/big/Sonic_Drift_-_1994_-_Sega.jpg"
+          "thumbnail": "https://i.imgur.com/DUauDKW.png"
         },
         {
           "title": "Sonic The Hedgehog - Triple Trouble",
@@ -3541,8 +3981,8 @@
   ],
   "thumbnail": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/video-game_1f3ae.png",
   "backgroundPixelated": true,
-  "background": "",
-  "longTitle": "SYSCONF¹⁶ | Retro Collection",
-  "description": "A collection of hand-picked titles for your favourite retro systems - now playable through your browser.\n\n@sysconf16.github.io",
+  "background": "https://www.mobiles.co.uk/blog/content/images/size/w2000/2018/01/icon-controllers2.jpg",
+  "longTitle": "Retro Collection",
+  "description": "A collection of hand-picked titles for your favourite retro systems - now playable through your browser.\n\nhttps://sysconf16.github.io/",
   "props": {}
 }
