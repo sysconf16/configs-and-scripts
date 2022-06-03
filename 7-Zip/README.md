@@ -1,6 +1,4 @@
-# Library
-
-### 7-Zip Compression Benchmarks (7z)
+# 7-Zip Compression Benchmarks (7z)
 |**Preset**|**Settings**|**Size (MB)**|**Compress Time (s)**|**Extract Time (s)**|**Compress Mem Use (MB)**|**Extract Mem Use (MB)**|
 |-|-|-|-|-|-|-|
 |None|None|303|0|0|0|0|
