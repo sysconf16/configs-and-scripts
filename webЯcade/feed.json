@@ -375,6 +375,19 @@
         },
         {
           "type": "arcade",
+          "title": "Popeye",
+          "longTitle": "Popeye",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Popeye%20(revision%20D).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Popeye%20(revision%20D).png",
+          "description": "Popeye is a superb and demanding platform game featuring characters from the famous King Features Syndicate cartoon show of the same name. The aim of the game is to rescue Popeye's girlfriend, Olive Oyl. This is achieved by catching a set number of objects thrown down by Olive from the top of the screen; such as hearts, letters and musical notes. Popeye is constantly pursued in his quest by love rival, Brutus (originally known as Bluto). Popeye must either run away from Brutus or grab some spinach and punch him off the screen (he will, of course, return).\n\nShould any of Olive Oyl's items fail to be caught, they will fall into the water at the bottom of the screen. Popeye will then have only a few seconds to retrieve the object or a life is lost. Several other Popeye characters also make an appearance in the game; namely Wimpy, Swee'Pea, the Sea Hag, and her vulture Bernard. The game's three levels are the dock scene, the street scene and the shipboard scene. These repeat with increasing difficulty.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fpopeye.zip"
+          },
+          "added": 1658400318407
+        },
+        {
+          "type": "arcade",
           "title": "R-Type",
           "longTitle": "R-Type",
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/R-Type%20(World).png",
@@ -580,19 +593,6 @@
             "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fxevious.zip"
           },
           "added": 1651337367097
-        },
-        {
-          "type": "arcade",
-          "title": "Popeye",
-          "longTitle": "Popeye",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Popeye%20(revision%20D).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Popeye%20(revision%20D).png",
-          "description": "Popeye is a superb and demanding platform game featuring characters from the famous King Features Syndicate cartoon show of the same name. The aim of the game is to rescue Popeye's girlfriend, Olive Oyl. This is achieved by catching a set number of objects thrown down by Olive from the top of the screen; such as hearts, letters and musical notes. Popeye is constantly pursued in his quest by love rival, Brutus (originally known as Bluto). Popeye must either run away from Brutus or grab some spinach and punch him off the screen (he will, of course, return).\n\nShould any of Olive Oyl's items fail to be caught, they will fall into the water at the bottom of the screen. Popeye will then have only a few seconds to retrieve the object or a life is lost. Several other Popeye characters also make an appearance in the game; namely Wimpy, Swee'Pea, the Sea Hag, and her vulture Bernard. The game's three levels are the dock scene, the street scene and the shipboard scene. These repeat with increasing difficulty.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fpopeye.zip"
-          },
-          "added": 1658400318407
         }
       ]
     },
@@ -2007,6 +2007,19 @@
           "added": 1658398199855
         },
         {
+          "title": "Animal Forest",
+          "longTitle": "Animal Forest",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Doubutsu%20no%20Mori%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Doubutsu%20no%20Mori%20(Japan).png",
+          "description": "Animal Forest is the name of the first installment in the Animal Crossing series. It was released only in Japan as Dōbutsu no Mori for the Nintendo 64. The reason it was originally released as a Japan-exclusive game was because Nintendo was uncertain whether a worldwide release for the game was viable, due to it being text-heavy and containing Japanese references and holidays that were untranslatable at the time.\n\nIt was later remade for the GameCube in 2002, and released worldwide as Animal Crossing. ",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://gitlab.com/hqiau9/library/-/raw/main/Animal_Forest.zip"
+          },
+          "added": 1658397197774
+        },
+        {
           "title": "Banjo-Kazooie",
           "longTitle": "Banjo-Kazooie",
           "type": "n64",
@@ -2163,19 +2176,6 @@
           "added": 1658397175583
         },
         {
-          "title": "Animal Forest",
-          "longTitle": "Animal Forest",
-          "type": "n64",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Doubutsu%20no%20Mori%20(Japan).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Doubutsu%20no%20Mori%20(Japan).png",
-          "description": "Animal Forest is the name of the first installment in the Animal Crossing series. It was released only in Japan as Dōbutsu no Mori for the Nintendo 64. The reason it was originally released as a Japan-exclusive game was because Nintendo was uncertain whether a worldwide release for the game was viable, due to it being text-heavy and containing Japanese references and holidays that were untranslatable at the time.\n\nIt was later remade for the GameCube in 2002, and released worldwide as Animal Crossing. ",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/animal-forest/Doubutsu_no_Mori%20English.z64"
-          },
-          "added": 1658397197774
-        },
-        {
           "title": "Dr. Mario 64",
           "longTitle": "Dr. Mario 64",
           "type": "n64",
@@ -2304,32 +2304,6 @@
             "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Nintendo%2064.zip/Kirby%2064%20-%20The%20Crystal%20Shards%20%28USA%29.zip"
           },
           "added": 1658397402177
-        },
-        {
-          "title": "The Legend of Zelda - Majora's Mask",
-          "longTitle": "The Legend of Zelda - Majora's Mask",
-          "type": "n64",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Legend%20of%20Zelda%2C%20The%20-%20Majora's%20Mask%20(USA).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Legend%20of%20Zelda%2C%20The%20-%20Majora's%20Mask%20(USA).png",
-          "description": "Link's all-new epic adventure lands him in the mystical world of Termina, where ever-present clocks count down the hours until a menacing moon falls from the sky above.  When his horse and Ocarina are stolen by a strange, masked figure, Link embarks on an urgent quest to solve the mystery of the moon, save the world from destruction, and find his way back to the peaceful land of Hyrule!\n\n* Link transforms before your eyes--Over 20 magical masks give Link powers and abilities he's never had before!  Watch him transform into a hapless Deku child, a mighty Goron hero and a legendary Zora guitarist.\n* Race against time--Characters and events flow with the hours of the day.  Set your own schedule and even alter time itself in a race to stop the moon and save the world!\n* Panoramic environments!  Powered-up action battles!  Fully interactive characters and events!  Experience gorgeous rendered landscapes, swarms of attacking enemies and a deep, engrossing world of wonders with the power of the N64 Expansion Pak.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Nintendo%2064.zip/Legend%20of%20Zelda%2C%20The%20-%20Majora%27s%20Mask%20%28USA%29.zip"
-          },
-          "added": 1658397467823
-        },
-        {
-          "title": "The Legend of Zelda - Ocarina of Time",
-          "longTitle": "The Legend of Zelda - Ocarina of Time",
-          "type": "n64",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20(USA).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20(USA).png",
-          "description": "Ganondorf, the evil King of Thieves, is on the move, threatening the peaceful land of Hyrule.  He is determined to steal his way into the legendary Sacred Realm in hopes of harnessing the power of the mythical Triforce.  As the young hero Link, it is your destiny to thwart Ganondorf's evil schemes.  Navi, your guardian fairy, will guide you as you venture through the many regions of Hyrule, from the volcanic caves of Death Mountain to the treacherous waters of Zora's Domain.  Before you complete this epic quest, you'll delve into deadly dungeons, collect weapons of great power and learn the spells you need to conquer the most irresistible force of all-time.\n\n* The immersive storyline and environments draw players into an amazing 3D world.\n* Time travel allows you to play as Link in different stages of his life.\n* New gameplay features include a unique targeting system and 1st and 3rd person perspectives.\n* Up to three games can be saved simultaneously to memory!",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Nintendo%2064.zip/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20%28USA%29.zip"
-          },
-          "added": 1658397500426
         },
         {
           "title": "Mario Golf",
@@ -2590,6 +2564,32 @@
             "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Nintendo%2064.zip/Super%20Smash%20Bros.%20%28USA%29.zip"
           },
           "added": 1658397859465
+        },
+        {
+          "title": "The Legend of Zelda - Majora's Mask",
+          "longTitle": "The Legend of Zelda - Majora's Mask",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Legend%20of%20Zelda%2C%20The%20-%20Majora's%20Mask%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Legend%20of%20Zelda%2C%20The%20-%20Majora's%20Mask%20(USA).png",
+          "description": "Link's all-new epic adventure lands him in the mystical world of Termina, where ever-present clocks count down the hours until a menacing moon falls from the sky above.  When his horse and Ocarina are stolen by a strange, masked figure, Link embarks on an urgent quest to solve the mystery of the moon, save the world from destruction, and find his way back to the peaceful land of Hyrule!\n\n* Link transforms before your eyes--Over 20 magical masks give Link powers and abilities he's never had before!  Watch him transform into a hapless Deku child, a mighty Goron hero and a legendary Zora guitarist.\n* Race against time--Characters and events flow with the hours of the day.  Set your own schedule and even alter time itself in a race to stop the moon and save the world!\n* Panoramic environments!  Powered-up action battles!  Fully interactive characters and events!  Experience gorgeous rendered landscapes, swarms of attacking enemies and a deep, engrossing world of wonders with the power of the N64 Expansion Pak.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Nintendo%2064.zip/Legend%20of%20Zelda%2C%20The%20-%20Majora%27s%20Mask%20%28USA%29.zip"
+          },
+          "added": 1658397467823
+        },
+        {
+          "title": "The Legend of Zelda - Ocarina of Time",
+          "longTitle": "The Legend of Zelda - Ocarina of Time",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20(USA).png",
+          "description": "Ganondorf, the evil King of Thieves, is on the move, threatening the peaceful land of Hyrule.  He is determined to steal his way into the legendary Sacred Realm in hopes of harnessing the power of the mythical Triforce.  As the young hero Link, it is your destiny to thwart Ganondorf's evil schemes.  Navi, your guardian fairy, will guide you as you venture through the many regions of Hyrule, from the volcanic caves of Death Mountain to the treacherous waters of Zora's Domain.  Before you complete this epic quest, you'll delve into deadly dungeons, collect weapons of great power and learn the spells you need to conquer the most irresistible force of all-time.\n\n* The immersive storyline and environments draw players into an amazing 3D world.\n* Time travel allows you to play as Link in different stages of his life.\n* New gameplay features include a unique targeting system and 1st and 3rd person perspectives.\n* Up to three games can be saved simultaneously to memory!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Nintendo%2064.zip/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20%28USA%29.zip"
+          },
+          "added": 1658397500426
         },
         {
           "title": "Tony Hawk's Pro Skater 2",
