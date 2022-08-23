@@ -593,6 +593,45 @@
             "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fxevious.zip"
           },
           "added": 1651337367097
+        },
+        {
+          "type": "arcade-capcom",
+          "title": "Super Gem Fighter Mini Mix",
+          "longTitle": "Super Gem Fighter Mini Mix",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Super%20Gem%20Fighter%20Mini%20Mix%20(970904%20USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Super%20Gem%20Fighter%20Mini%20Mix%20(970904%20USA).png",
+          "description": "Super Gem Fighter: Mini Mix / Pocket Fighter is a superb, abstract and humorous fighting game featuring miniaturized renditions from several Capcom fighting games; including the legendary \"Street Fighter\" series, as well as \"Darkstalkers\" and the little-known \"Red Earth\".\n\nDuring a bout, players will be able to release coloured gems from successful attacks against their opponent, as well as from wooden chests that regularly appear. Collecting these gems will 'power-up' the player's character, giving them more powerful attacks. There are two bars and three sub-bars in the interface. The two main bars are the life bar and the super bar; the first indicates the player's health and the second their ability to throw super combos. The Super Bar itself can be filled up to nine levels, allowing players to execute more super combos. Each super combo has a level assigned to it, and it uses Super Bars depending on it.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fsgemf.zip"
+          },
+          "added": 1661269291408
+        },
+        {
+          "type": "arcade",
+          "title": "Cotton: Fantastic Night Dreams",
+          "longTitle": "Cotton: Fantastic Night Dreams",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Snaps/output/Cotton%20(set%203%2C%20World%2C%20FD1094%20317-0181a).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-fbneo-images/master/Named_Titles/resized/Cotton%20(set%203%2C%20World%2C%20FD1094%20317-0181a).png",
+          "description": "Cotton: Fantastic Night Dreams is a scrolling shooter video game developed by Success and originally released in Japanese arcades in 1991. The first installment in the Cotton series, players assume the role of the young witch Cotton who, alongside her fairy companion Silk, sets out on her broomstick on a quest to defeat several monsters and get her Willow candy. Its gameplay mainly consists of shooting mixed with role-playing game elements using a main two-button configuration. It ran on the Sega System 16 hardware.\n\nFirst launched in arcades, it was later ported to multiple platforms, each one featuring several changes or additions compared with the original version. Cotton proved to be popular among players in Japanese arcades, earning several awards from Gamest magazine, however the console ports have been met with mixed reception from critics. It is regarded as a key title in the \"cute 'em up\" sub-genre.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Fcotton.zip"
+          },
+          "added": 1661270542404
+        },
+        {
+          "type": "neogeo",
+          "title": "The Last Blade 2: Heart of the Samurai",
+          "longTitle": "The Last Blade 2: Heart of the Samurai",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Snaps/output/The%20Last%20Blade%202%20_%20Bakumatsu%20Roman%20-%20Dai%20Ni%20Maku%20Gekka%20no%20Kenshi%20(NGM-2430)(NGH-2430).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-neogeo-images/master/Named_Titles/resized/The%20Last%20Blade%202%20_%20Bakumatsu%20Roman%20-%20Dai%20Ni%20Maku%20Gekka%20no%20Kenshi%20(NGM-2430)(NGH-2430).png",
+          "description": "The Last Blade 2: Heart of the Samurai is a 2D fighting game which features anime-style characters that fight each other with swords, clubs, and even fishing poles. These characters pull off their special moves with that 'quarter-circle-to-half-circle' and 'double-half-circle' controller motions, reminiscent of Street Fighter.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade%2Flastbld2.zip"
+          },
+          "added": 1661270672658
         }
       ]
     },
@@ -2005,19 +2044,6 @@
             "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Nintendo%20-%20Nintendo%2064.zip/1080%20TenEighty%20Snowboarding%20%28Japan%2C%20USA%29%20%28En%2CJa%29.zip"
           },
           "added": 1658398199855
-        },
-        {
-          "title": "Animal Forest",
-          "longTitle": "Animal Forest",
-          "type": "n64",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Doubutsu%20no%20Mori%20(Japan).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Doubutsu%20no%20Mori%20(Japan).png",
-          "description": "Animal Forest is the name of the first installment in the Animal Crossing series. It was released only in Japan as Dōbutsu no Mori for the Nintendo 64. The reason it was originally released as a Japan-exclusive game was because Nintendo was uncertain whether a worldwide release for the game was viable, due to it being text-heavy and containing Japanese references and holidays that were untranslatable at the time.\n\nIt was later remade for the GameCube in 2002, and released worldwide as Animal Crossing. ",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://gitlab.com/hqiau9/library/-/raw/main/Animal_Forest.zip"
-          },
-          "added": 1658397197774
         },
         {
           "title": "Banjo-Kazooie",
@@ -4932,7 +4958,60 @@
       "longTitle": "7800",
       "background": "https://github.com/sysconf16/retro-collection/raw/main/images/backgrounds/7800.webp",
       "backgroundPixelated": false,
-      "items": [],
+      "items": [
+        {
+          "title": "Tank Command",
+          "longTitle": "Tank Command",
+          "type": "7800",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-7800-images/master/Named_Snaps/output/Tank%20Command%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-7800-images/master/Named_Titles/resized/Tank%20Command%20(USA).png",
+          "description": "Tank Command is a vertically scrolling action game. You control a tank on a mission to capture the enemy flag as well as earn as many points as possible. To do this, you will need to blast your way through their defenses on three levels of increasing difficulty. Blocking your progress are enemy tanks, pillboxes, missiles, jeeps, infantry, huts, and more, all of which earn you points when destroyed. Your tank is equipped with a limited amount of fuel and ammo, however it can be replenished occasionally by collecting the bonus icons when they appear on the screen. If you can make it past all of the obstacles and capture the flag, then you win the game!\r\n\r\nThe 7800 is pretty much void of super-rare games like the 2600'?s Tooth Protectors and Chase the Chuckwagon, but don't worry, tracking down Tank Command in a box will cost you a pretty penny. As far as gameplay goes, Tank Command is not going to blow anyone away. Here you have a vertical scroller like Commando or Ikari Warriors minus the charm, quality level design, and reasonable difficulty. There are only three levels in the game, but just like its Froggo cousin Water Ski, the difficulty ramps so severely after the mindless first level that continuing takes strong will. The pink terrain is a bit odd, as well. Tank Command was only released in NTSC format.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Atari%20-%207800.zip/Tank%20Command%20%28USA%29.zip"
+          },
+          "added": 1661266285570
+        },
+        {
+          "title": "Super Skateboardin'",
+          "longTitle": "Super Skateboardin'",
+          "type": "7800",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-7800-images/master/Named_Snaps/output/Super%20Skateboardin'%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-7800-images/master/Named_Titles/resized/Super%20Skateboardin'%20(USA).png",
+          "description": "Super Skateboardin' is a game where a young skateboarder is hired by his dad's company to do what he does best, Skateboard. Your job is to navigate the many rooms of the factory and turn off all the electrical equipment in 15 minutes, or else the electricity bill will skyrocket. Your wage is based on how fast you complete the task, and you need that money to enter the Skateboarding \nChampionship. Super Skateboardin' is a straightforward game from the designer of Pitfall!, David Crane.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Atari%20-%207800.zip/Super%20Skateboardin%27%20%28USA%29.zip"
+          },
+          "added": 1661266305436
+        },
+        {
+          "title": "Water Ski",
+          "longTitle": "Water Ski",
+          "type": "7800",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-7800-images/master/Named_Snaps/output/Water%20Ski%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-7800-images/master/Named_Titles/resized/Water%20Ski%20(USA).png",
+          "description": "In Water Ski you are water skiing on the Pharonna River. You control both the boat and skier in this vertically scrolling action game. Your goal is to reach the finish line before time runs out and also to earn as many points as possible. The river is quite dangerous, and features many twists and turns along with rocks, logs and other obstacles. For bonus points there are numerous ramps located throughout the river which your skier can jump over (and if you can manage to ski over every ramp on the level, you'll earn even more points!). You start the game with four skiers, and the game ends when all of you skiers have crashed.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Atari%20-%207800.zip/Water%20Ski%20%28USA%29.zip"
+          },
+          "added": 1661266368017
+        },
+        {
+          "title": "Midnight Mutants",
+          "longTitle": "Midnight Mutants",
+          "type": "7800",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-7800-images/master/Named_Snaps/output/Midnight%20Mutants%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-7800-images/master/Named_Titles/resized/Midnight%20Mutants%20(USA).png",
+          "description": "Can you save Grampa from Plasmic Prison\r\n\r\n7800 Arcade adventure like you've never seen before. This game has it all places like rivers, deep dark forests, creepy caverns, labs, creatures like Vampires, Mutant zombies and menacing bats. Your adventure includes exploring large areas and finding awesome weapons. A press of a button brings instant on-screen hints and tips.\r\n\r\nIt all adds up to awesome action with mega Graphics. Grampa’s back, it’s up to you to wipe out the Monsters and clean up.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Atari%20-%207800.zip/Midnight%20Mutants%20%28USA%29.zip"
+          },
+          "added": 1661266400528
+        }
+      ],
       "thumbnail": "https://github.com/sysconf16/retro-collection/raw/main/images/thumbnails/7800.webp",
       "description": "The Atari 7800 ProSystem, or simply the Atari 7800, is a home video game console officially released by Atari Corporation in 1986 as the successor to both the Atari 2600 and Atari 5200. It can run almost all Atari 2600 cartridges, making it one of the first consoles with backward compatibility. It shipped with a different model of joystick from the 2600-standard CX40 and Pole Position II as the pack-in game. Most of the announced titles at launch were ports of 1980–83 arcade games."
     },
@@ -4941,7 +5020,86 @@
       "longTitle": "Lynx",
       "background": "https://github.com/sysconf16/retro-collection/raw/main/images/backgrounds/lynx.webp",
       "backgroundPixelated": false,
-      "items": [],
+      "items": [
+        {
+          "title": "Shadow of the Beast",
+          "longTitle": "Shadow of the Beast",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Shadow%20of%20the%20Beast%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Shadow%20of%20the%20Beast%20(USA%2C%20Europe).png",
+          "description": "While very young, Aarbron was kidnapped and enslaved by the Priests of the Beast Lord. He grew up on drugs made to destroy his own will and turn him into the Beast Messenger, a powerful creature serving Maletoth, The Beast Lord himself. He did his job, until one day he noticed a man about to be sacrificed in a ritual, his face triggering ancient memories... and as the sacrificial knife descended into the man's body, Aarbron recognizes the face. Of his father.\nAs his father dies in the altar, memories of his childhood and tormented past at the hands of the Beast Lord emerged, and as feelings of hate over his captors took over him, he swore revenge and fled the temple, knowing the road to avenge his father and redemption would be hard.\n\nShadow of the Beast, one of Psygnosis most popular titles during the 16-bit computer era is a side-scrolling platformer best known for the use of parallax scrolling along lush graphics, a musical score  by David Whittaker, a iconic cover by Roger Dean and what many consider to be unforgiving gameplay, balancing between the \"very challenging\" and the \"impossible\". The player has to navigate through several areas filled with enemies and traps, collecting keys and activating triggers than open new areas or give Aarbron the means to overcome a sub-boss. The number of moves the player has at disposal is limited: duck, jump and only two attacks: punch and a flying kick. While most enemies die with just one hit, the player must time each attack accurately. However, there are also traps of objects that cannot be destroyed, and these require the player to jump, duck or move according the sequence. The player has only one life with 12 hit points that can be replenished by collecting some objects hidden in the level (like an off-route location or a under a megalith), which also contributes to the difficulty level.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Atari%20-%20Lynx.zip/Shadow%20of%20the%20Beast%20%28USA%2C%20Europe%29.zip"
+          },
+          "added": 1661266593772
+        },
+        {
+          "title": "RoadBlasters",
+          "longTitle": "RoadBlasters",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/RoadBlasters%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/RoadBlasters%20(USA%2C%20Europe).png",
+          "description": "RoadBlasters is a futuristic racing action game. The goal is to reach the finish line in one piece throughout each of 50 levels. Numerous enemies are out on the road to try and stop you, including armored cars, motorcycles, canons on the side of the road, landmines, and more. \n\nYour vehicle is equipped with a machine gun to help you out, and occasionally a weapons plane will fly in and drop additional power ups that can be collected. Some of these are the U.Z. canon, cruise missiles, and speed boost. Your car has a very limited amount of fuel, however more can be picked up along the way by crossing the halfway point of a level, or by collecting the red and green fuel spheres that appear in the road or after destroying certain enemies.  On many levels collecting fuel is critical otherwise you won't be able to reach the finish line.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Atari%20-%20Lynx.zip/RoadBlasters%20%28USA%2C%20Europe%29.zip"
+          },
+          "added": 1661266681873
+        },
+        {
+          "title": "Gauntlet - The Third Encounter",
+          "longTitle": "Gauntlet - The Third Encounter",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Gauntlet%20-%20The%20Third%20Encounter%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Gauntlet%20-%20The%20Third%20Encounter%20(USA%2C%20Europe).png",
+          "description": "Generations ago an enchanted Star Gen crashed to Earth at the base of an ancient castle. Loathsome creatures crept from the castle and carried the Gem into the depths of the fortress.\n\nAll attempts to retrieve the Star Gem failed. The adventurers were destroyed.\n\nThe creatures in the castle gain magical strength from the Star Gem. Unless the Gem is taken from them, the evil ones will soon have the strength to venture forth and destroy mankind!\n\nYou and your friends must take up the quest to rescue the Star Gem... and your world!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Atari%20-%20Lynx.zip/Gauntlet%20-%20The%20Third%20Encounter%20%28USA%2C%20Europe%29.zip"
+          },
+          "added": 1661266778235
+        },
+        {
+          "title": "Battle Wheels",
+          "longTitle": "Battle Wheels",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Battle%20Wheels%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Battle%20Wheels%20(USA%2C%20Europe).png",
+          "description": "The year is 2019, and the world is bored with conventional entertainment.  Enter the world of BattleWheels, where contestants fight in post-apocalyptic deserts and dead cities in the most violent destruction derby ever.  At your disposal are machine guns, flame throwers, missiles, mines, and even paint (to obstruct someone's view).  And if you survive your car getting destroyed, you can hoof it and try to wreak as much carnage as possible before becoming roadkill.  You can buy a pre-made car, or customize your own car with different levels of engine power, suspension, and armor.\n\nBattleWheels can be comlynxed up to 6 simultaneous players.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Atari%20-%20Lynx.zip/Battle%20Wheels%20%28USA%2C%20Europe%29.zip"
+          },
+          "added": 1661266803935
+        },
+        {
+          "title": "Checkered Flag",
+          "longTitle": "Checkered Flag",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Checkered%20Flag%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Checkered%20Flag%20(USA%2C%20Europe).png",
+          "description": "Checkered Flag for the Jaguar is a 3D F1-style racing game. The racing game staples are here: single race, practice, and tournament. You can choose to set up a variety of options for each race, also.  You can choose various weather conditions.  Or, you can set up your car to change it's handling characteristics.  There are 10 different tracks on which to race, each with a different theme.  Some take place on sunny beaches, others take place in the arctic.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Atari%20-%20Lynx.zip/Checkered%20Flag%20%28USA%2C%20Europe%29.zip"
+          },
+          "added": 1661266857318
+        },
+        {
+          "title": "Electrocop",
+          "longTitle": "Electrocop",
+          "type": "lnx",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Snaps/output/Electrocop%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-lnx-images/master/Named_Titles/resized/Electrocop%20(USA%2C%20Europe).png",
+          "description": "Today, if a daughter of the President goes missing, I would look in the nearest bar. However, in the near future, the explanation is that she's been kidnapped by a Criminal Brain robot, and held in a booby-trapped lair. As the advanced hybrid Electrocop, your task is to rescue her within an hour.\n\nGameplay involves working your way through the complex warehouse maze, unlocking coded door along the way. Extra weapons can be collected to help dealing with the drones. There are also computer terminals to buy new weapons - these also have simple subgames built in. What makes the game unique, and intended as a showpiece for the Lynx hardware, is that full 3D is used, so that the character walks in and out of the screen as well as across it.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Atari%20-%20Lynx.zip/Electrocop%20%28USA%2C%20Europe%29.zip"
+          },
+          "added": 1661266940482
+        }
+      ],
       "thumbnail": "https://github.com/sysconf16/retro-collection/raw/main/images/thumbnails/lynx.webp",
       "description": "The Atari Lynx is a hybrid 8-bit and 16-bit handheld game console released by Atari Corporation in September 1989 in North America, and in Europe and Japan in 1990.\n\nIt arose as the first handheld game console with a color LCD screen. Its advanced graphics and ambidextrous layout competed with Nintendo's Game Boy (released two months earlier), and with the Game Gear and TurboExpress, both released the following year. It was discontinued in 1995."
     },
@@ -4950,7 +5108,177 @@
       "longTitle": "PC Engine",
       "background": "https://github.com/sysconf16/retro-collection/raw/main/images/backgrounds/pcengine.webp",
       "backgroundPixelated": false,
-      "items": [],
+      "items": [
+        {
+          "title": "Air Zonk",
+          "longTitle": "Air Zonk",
+          "type": "pce",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Snaps/output/Air%20Zonk%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Titles/resized/Air%20Zonk%20(USA).png",
+          "description": "In 1992, Hudson Soft expanded upon the Bonk's Adventure franchise they had built by creating Air Zonk, a 2D side-scrolling \"cute 'em up\" shooter set in a cyberpunk-esque future. While Air Zonk differed from its successor in terms of gameplay, the cartoonish style of the Bonk series could still be seen all throughout the game, especially in the graphics, the characters, & of course, Zonk himself.\r\n\r\nAir Zonk may appear to feature a candy cartoon coating on the outside, but it's still a traditional shoot-'em-up at heart. You still have a selection of your basic weapon power-ups (8 in total here), but spread guns & powerful bursts are now represented by killer decks of cards & giant metal mandibles. Large, imposing endbosses are still the norm, but here your foes range from giant heaps of living garbage to killer football players. And outer space? Who needs to blow up things there when you have other venues (5 in total) such as a gigantic stadium to do it in?\r\n\r\nIn addition to all of this, Air Zonk gives you a feature that allows you to choose from one of 10 \"friends\" at the beginning of each level who will fight by your side once you pick up a certain power-up. These friends range from giant scud missiles to living dump trucks to floating cow-things, among others. Pick up another power-up, & Zonk & his friend combine to create a powerful hybrid form, featuring some of the strangest attacks you may ever see in a video game.\r\n\r\nSo will Zonk be able to defeat King Drool, rescue the moon from his clutches, & save the world? As usual, the answer is up to you...",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/NEC%20-%20PC%20Engine%20-%20TurboGrafx%2016.zip/Air%20Zonk%20%28USA%29.zip"
+          },
+          "added": 1661267148169
+        },
+        {
+          "title": "Blazing Lazers",
+          "longTitle": "Blazing Lazers",
+          "type": "pce",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Snaps/output/Blazing%20Lazers%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Titles/resized/Blazing%20Lazers%20(USA).png",
+          "description": "Blazing Lazers is a top-down shooter featuring 9 levels of varied and fast-paced action.  The story here is the usual save-the-world variety. You must pilot your ship against 8 super-weapons and ultimately destroy the menace once and for all.\r\n\r\nThe power-up system in Blazing Lazers deserves special mention. There are four main types of weapons, and each type of weapon can be upgraded several times to produce an incredible amount of firepower. In addition, there are secondary weapons systems that provide you with shields, homing missiles, multi-fire units, or super weapon power.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/NEC%20-%20PC%20Engine%20-%20TurboGrafx%2016.zip/Blazing%20Lazers%20%28USA%29.zip"
+          },
+          "added": 1661267173336
+        },
+        {
+          "title": "Super Star Soldier",
+          "longTitle": "Super Star Soldier",
+          "type": "pce",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Snaps/output/Super%20Star%20Soldier%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Titles/resized/Super%20Star%20Soldier%20(USA).png",
+          "description": "Super Star Soldier takes place in the far future, where you are the last hope for planet Earth, which is being attacked by an alien race.\r\n\r\nThe game features top-down view with vertical scrolling levels, similar to it's prequel Star Soldier. \r\nThe game features the following game play modes: normal play, score play, 2 minutes play and 5 minutes play.\r\nEach level has it's own tough boss at the end.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/NEC%20-%20PC%20Engine%20-%20TurboGrafx%2016.zip/Super%20Star%20Soldier%20%28USA%29.zip"
+          },
+          "added": 1661267218094
+        },
+        {
+          "title": "Neutopia",
+          "longTitle": "Neutopia",
+          "type": "pce",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Snaps/output/Neutopia%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Titles/resized/Neutopia%20(USA).png",
+          "description": "You play as a young warrior named Jazeta. The princess Aurora was kidnapped by the evil Dirth, and the king send you on a mission to rescue her. It appears that once Dirth way sealed by eight wise men who used the power of eight sacred medallions. Princess Aurora is the only one who knows how to use those medallions, and that is why Dirth abducted her! You must explore the land, descend to the dangerous labyrinths, retrieve the eight medallions, rescue the princess, and defeat Dirth.\r\n\r\nVery similar to the famous Zelda games, \"Neutopia\" is Turbo Grafx' answer to Nintendo's king of action adventures. You roam freely the vast land, fighting many different monsters in wilderness areas as well as in dungeons. Dungeons also require some puzzle-solving (pushing stones, blowing walls with bombs, etc.). The game has a slight RPG flavor, allowing you to power-up by collecting various items, and equip different weapons and armor.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/NEC%20-%20PC%20Engine%20-%20TurboGrafx%2016.zip/Neutopia%20%28USA%29.zip"
+          },
+          "added": 1661267278373
+        },
+        {
+          "title": "The Legendary Axe",
+          "longTitle": "The Legendary Axe",
+          "type": "pce",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Snaps/output/Legendary%20Axe%2C%20The%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Titles/resized/Legendary%20Axe%2C%20The%20(USA).png",
+          "description": "You are the mighty warrior Gogan, whose village has been required  by the Jagu tribe to give a human sacrifice each year. Flare, your childhood friend, has been chosen as the sacrifice. Your task is to rescue Flare and destroy the Jagu and their leader. To help you complete your mission, you are given the Legendary Axe, which is said to possess tremendous power that is usable only to its wielder. \r\n\r\nThere are six zones in the game and has Gogan exploring forests, caves, mountains, dungeons, and castles, while defeating enemies that get in his way with his axe. Idols can be broken to reveal power-ups that will increase the axe's power and speed up its swing. These power-ups can also award you extra lives, more points, and the ability to access secret areas. At the end of each zone, you have to defeat a boss in order to proceed.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/NEC%20-%20PC%20Engine%20-%20TurboGrafx%2016.zip/Legendary%20Axe%2C%20The%20%28USA%29.zip"
+          },
+          "added": 1661267317803
+        },
+        {
+          "title": "Keith Courage in Alpha Zones",
+          "longTitle": "Keith Courage in Alpha Zones",
+          "type": "pce",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Snaps/output/Keith%20Courage%20in%20Alpha%20Zones%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Titles/resized/Keith%20Courage%20in%20Alpha%20Zones%20(USA).png",
+          "description": "As a member of N.I.C.E. (Nations for International Citizens of Earth), Keith Courage takes up the fight against the aliens of B.A.D. (Bad Alien Dudes) through seven levels in this side-scrolling action platformer.\r\n\r\nAs Keith Courage makes his way through the various zones, he attacks various forms of enemies in order to gain coins. The coins can be used in the shops for various power-ups, equipment, and other helpful items.\r\n\r\nWhen he makes it to a certain point in each level, Keith Courage is given access to the Nova Suit, an armored suit with a powerful sword that is used to dispatch the end bosses of each level in the Underworld. Once Keith Courage defeats the boss, the returns to the Overworld sans armor to complete the next set of challenges.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/NEC%20-%20PC%20Engine%20-%20TurboGrafx%2016.zip/Keith%20Courage%20in%20Alpha%20Zones%20%28USA%29.zip"
+          },
+          "added": 1661267502158
+        },
+        {
+          "title": "Parasol Stars - The Story of Bubble Bobble III",
+          "longTitle": "Parasol Stars - The Story of Bubble Bobble III",
+          "type": "pce",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Snaps/output/Parasol%20Stars%20-%20The%20Story%20of%20Bubble%20Bobble%20III%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Titles/resized/Parasol%20Stars%20-%20The%20Story%20of%20Bubble%20Bobble%20III%20(USA).png",
+          "description": "Break out the bandages and get ready for some finger-searing action! Join Bubby on his latest quest to save the universe, this time with a Magic Umbrella. Umbrella!? Yes, Umbrella! This powerful Parasol puts the elements themselves at your command! Shock the tonnage out of the whales with Lightning! Fry the feathers off the crazed, beady-eyed birds with Fire! Or, drown your demented dinosaurs with a tidel wave of Raindrops! Need help? Your buddy Bobby is always nearby. Have a friend plug into your TurboTap and blast into two player simultaneous play. Be prepared for a quest that will take you to eight amazing planets, forcing you to uncover the secret that will unleash the Parasol Stars!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/NEC%20-%20PC%20Engine%20-%20TurboGrafx%2016.zip/Parasol%20Stars%20-%20The%20Story%20of%20Bubble%20Bobble%20III%20%28USA%29.zip"
+          },
+          "added": 1661267568766
+        },
+        {
+          "title": "Dungeon Explorer",
+          "longTitle": "Dungeon Explorer",
+          "type": "pce",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Snaps/output/Dungeon%20Explorer%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Titles/resized/Dungeon%20Explorer%20(USA).png",
+          "description": "The former king of Oddesia has entrusted you with an important, dangerous task. You must find the sacred ORA stone, which possesses the powers of life, light and happiness, and retrieve it before the king of the alien race, Natas, does. He has conquered this land and plunged it into an age of terror and despair, plagued with violence. It is up to you to stand against him and return your world to its former glory.\r\n\r\nDungeon Explorer plays like Gauntlet: you choose one of several different characters to play as (Fighter, Thief, Warlock, Witch, Bard, Bishop, Elf and Knome) and set out on your adventure alone or with up to four other players. Battles are real-time and of the shooter variety, ie, rather than swing a sword, you fire knives (or spells depending on your class). Enemies respawn out of holes in the ground which must be eradicated to keep them from pouring forth in waves. There are a number of items to be found and used throughout the game including potions of white and black magic, healing drinks and the like, but unlike Gauntlet there is no food to worry about.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/NEC%20-%20PC%20Engine%20-%20TurboGrafx%2016.zip/Dungeon%20Explorer%20%28USA%29.zip"
+          },
+          "added": 1661267593387
+        },
+        {
+          "title": "Cadash",
+          "longTitle": "Cadash",
+          "type": "pce",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Snaps/output/Cadash%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Titles/resized/Cadash%20(USA).png",
+          "description": "Trouble is in the kingdom of Dilsarl: the young, beautiful princess Salasa was abducted by the evil arch-mage Balrog! The king seeks help by the four best warriors of the country. Your task is clear, but not so simple: find Balrog, destroy his evil minions and other monsters who try to stop you, and rescue the princess!\r\n\r\nThis is a platform action RPG. You choose one of the four character classes in the beginning of the game: fighter, priestess, mage, or ninja. You fight your way through dungeons, attacking physically or casting spells (as priestess or mage). Like in regular platform games, there are places where you should jump, duck, or climb. You gain experience for defeating monsters, and your level rises in a true RPG fashion.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/NEC%20-%20PC%20Engine%20-%20TurboGrafx%2016.zip/Cadash%20%28USA%29.zip"
+          },
+          "added": 1661267654535
+        },
+        {
+          "title": "Ninja Spirit",
+          "longTitle": "Ninja Spirit",
+          "type": "pce",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Snaps/output/Ninja%20Spirit%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Titles/resized/Ninja%20Spirit%20(USA).png",
+          "description": "Conversion of a ninja-based action game that has the player leading Moonlight through numerous enemy-riddled levels on a quest to exact revenge against his father's murderer. To accomplish this task Moonlight is armed with a katana, shurikens, bombs, and a sickle and chain weapon. Each weapon offers its own advantages and must be used at certain times to overcome specific obstacles or opponents. \r\n\r\nThe game's coin-op origins are evident in the fact that it does not have passwords or saves. To compensate for this, however, adjustable difficulty settings were added.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/NEC%20-%20PC%20Engine%20-%20TurboGrafx%2016.zip/Ninja%20Spirit%20%28USA%29.zip"
+          },
+          "added": 1661267679007
+        },
+        {
+          "title": "Devil's Crush",
+          "longTitle": "Devil's Crush",
+          "type": "pce",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Snaps/output/Devil's%20Crush%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Titles/resized/Devil's%20Crush%20(USA).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/NEC%20-%20PC%20Engine%20-%20TurboGrafx%2016.zip/Devil%27s%20Crush%20%28USA%29.zip"
+          },
+          "added": 1661267692728,
+          "description": "Devil's Crush is a pinball video game developed by Compile for the TurboGrafx-16 and released in 1990. The second installment in the Crush Pinball series after Alien Crush, the game has an eerie occult theme with skulls, skeletons, and demons. It was later followed by Jaki Crush and Alien Crush Returns."
+        },
+        {
+          "title": "Barunba",
+          "longTitle": "Barunba",
+          "type": "pce",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Snaps/output/Barunba%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Titles/resized/Barunba%20(Japan).png",
+          "description": "The Engine is hardly lacking in shooters, so to be successful, you have to stand out from the crowd. Barunba tries to add a hint of originality in its own subtle way. You control what is basically a floating globe (complete with little man inside) that has a weapons ring around it - this ring can be rotated right around the ship giving a fully controllable direction of fire, something obviously useful for those pesky critters approaching from behind. From the start, you are equipped with several different types of weapon, each of which can be temporarily boosted by collecting items that are dropped by exploding enemies. The levels are auto-scroll, moving around in all directions and contain mid-level as well as end-of-level bosses. Your ship has an energy bar, located at the bottom left of the screen, and once it is depleted it's 'Game Over'.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/NEC%20-%20PC%20Engine%20-%20TurboGrafx%2016.zip/Barunba%20%28Japan%29.zip"
+          },
+          "added": 1661267772657
+        },
+        {
+          "title": "Bloody Wolf",
+          "longTitle": "Bloody Wolf",
+          "type": "pce",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Snaps/output/Bloody%20Wolf%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-pce-images/master/Named_Titles/resized/Bloody%20Wolf%20(USA).png",
+          "description": "Snake and Eagle, two commandos of the Bloody Wolf special forces, receive instructions from their commander to destroy the enemy's heavily armed base to rescue the President and any allies who have been reported as MIA.\r\n\r\nBased off the 1988 arcade game, this single-player, top-down, run and gun shooter takes a nod to Contra-style gameplay, allowing one of the two mercenaries to blast their way through eight levels of enemy opposition armed with only a knife and a machine gun. \r\n\r\nAlong the way, new weapons such as shotguns, bazookas, flash bombs and grenades grenades can be added to the arsenal, as well as health and defensive power-ups. Players can even find a motorcycle to ride in some areas, or swim through certain parts of a level.\r\n\r\nThe President and your fellow soldiers need you!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/NEC%20-%20PC%20Engine%20-%20TurboGrafx%2016.zip/Bloody%20Wolf%20%28USA%29.zip"
+          },
+          "added": 1661267849994
+        }
+      ],
       "thumbnail": "https://github.com/sysconf16/retro-collection/raw/main/images/thumbnails/pcengine.webp",
       "description": "The TurboGrafx-16, known as the PC Engine outside North America, is a fourth-generation home video game console designed by Hudson Soft and sold by NEC Home Electronics. It was the first console marketed in the fourth generation of game consoles, commonly known as the 16-bit era, though the console has an 8-bit central processing unit (CPU). It was released in Japan in 1987 and in North America in 1989. In Europe, the console is known as the PC Engine, after the Japanese model was imported and distributed in the United Kingdom and France from 1988. In Japan, the system was launched as a competitor to the Famicom, but the delayed United States release meant that it ended up competing with the Sega Genesis and later the Super NES."
     },
@@ -4968,7 +5296,47 @@
       "longTitle": "WonderSwan",
       "background": "https://github.com/sysconf16/retro-collection/raw/main/images/backgrounds/wonderswan.webp",
       "backgroundPixelated": false,
-      "items": [],
+      "items": [
+        {
+          "title": "Rainbow Islands - Putty's Party",
+          "longTitle": "Rainbow Islands - Putty's Party",
+          "type": "ws",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Snaps/output/Rainbow%20Islands%20-%20Putty's%20Party%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Titles/resized/Rainbow%20Islands%20-%20Putty's%20Party%20(Japan).png",
+          "description": "A spin-off of the Rainbow Islands games, this title features Putty instead of the classic Bub & Bob. Like the previous games set on the island the character's main tools and weapons are rainbows. These rainbows can be walked on to scale heights or cover gaps. Rainbows can also be used to kill enemies by striking them with the arc as it is created, or after it has taken form jumping on it so that it breaks and the shards rain death on those below. Enemies can also be trapped in rainbows. Enemies killed by rainbow shards will sometimes drop a special item or a gem. A series of gems are needed to properly clear each level.\r\n\r\nThe goal of each area, aside from collecting gems, is to scale to the top of the island. Islands are made out of a series of themed platforms covered with associated enemies. These areas are scattered with items, mostly food, that will increase your score. Sometimes a rainbow will dislodge hidden food or an enemy will drop some when killed. If your score is high enough you will start to send out more than one rainbow at a time. At the end of each island there will be a boss. If you fulfilled certain requirements in the level you may get a special item.\r\n\r\nThe islands in this game are, here listed with their theme:\r\n\r\n1. Insect Island: Insects and nature\r\n2. Monster Island: Classic horror monsters\r\n3. Doh Island: Geometric\r\n4. Darius Island: Machines\r\n\r\nThis game plays vertically.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Bandai%20-%20WonderSwan.zip/Rainbow%20Islands%20-%20Putty%27s%20Party%20%28Japan%29.zip"
+          },
+          "added": 1661268138867
+        },
+        {
+          "title": "Buffers Evolution",
+          "longTitle": "Buffers Evolution",
+          "type": "ws",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Snaps/output/Buffers%20Evolution%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Titles/resized/Buffers%20Evolution%20(Japan).png",
+          "description": "In a post-apocalyptic future a gambling syndicate seeks to make a quick buck in the gritty remains of earth. By fusing the best of animal and mechanical traits they create three bestial androids from a bird, a lion, and a rhinoceros. Bets are taken and then the robots are loosed into hostile mazes of scrap metal on old earth. Maybe they'll even make it back alive...\r\n\r\nThe goal of BUFFERS EVOLUTION is to run through a course while collecting ten parts in the best time possible. The courses are large and vary between jungle scenes, deserts, old factories, and general mechanical wastes. These areas are cased in by electricity to stop the contests from escaping and thereby ruining the entertainment of the masses. This will keep you in the bounds of the course. With the press of a button your character will momentarily turn into a 'buffer', a sharp pisiform metallic object, while being a buffer you can destroy enemies by slamming into them, this will often bounce you in a given direction, which is useful for reaching high ledges. \r\n\r\nAlthough you do not need to get all the parts to clear an area special items can be accrued by collection parts, while on the course proper these parts will heal any damage you may have taken. Perhaps if you collect all the part in all nine areas you'll have the means to escape you captors? \r\n\r\nGameplay is reminiscent of Sonic the Hedghog\r\nalthough in those games you race against a countdown while here you are merely trying to get good times.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Bandai%20-%20WonderSwan.zip/Buffers%20Evolution%20%28Japan%29.zip"
+          },
+          "added": 1661268287448
+        },
+        {
+          "title": "Kaze no Klonoa - Moonlight Museum",
+          "longTitle": "Kaze no Klonoa - Moonlight Museum",
+          "type": "ws",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Snaps/output/Kaze%20no%20Klonoa%20-%20Moonlight%20Museum%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ws-images/master/Named_Titles/resized/Kaze%20no%20Klonoa%20-%20Moonlight%20Museum%20(Japan).png",
+          "description": "In this game, you control a boy named Klonoa. One day he sees a dream in which he learns that somebody has stolen a fragment of the moon. He is told that the thieves are probably some painters who took the moon fragment into a museum. As Klonoa enters the music, he gets teleported into a mysterious world. Now he has to use his wit in order to overcome all the obstacles in this world and retrieve the moon fragment.\r\n\r\nKaze no Klonoa: Moonlight Museum is a platform game with an emphasis on puzzle-solving. The enemies you encounter can be inflated with the help of Klonoa's yo-yo, and carried around. You can throw them at other enemies, or use them to jump to higher ledges. In addition, there are various kinds of symbols you have to collect to open locked doors, teleporters, switches, time bombs, and other ingredients for puzzles.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Bandai%20-%20WonderSwan.zip/Kaze%20no%20Klonoa%20-%20Moonlight%20Museum%20%28Japan%29.zip"
+          },
+          "added": 1661268446164
+        }
+      ],
       "thumbnail": "https://github.com/sysconf16/retro-collection/raw/main/images/thumbnails/wonderswan.webp",
       "description": "The WonderSwan is a handheld game console released in Japan by Bandai. It was developed by Gunpei Yokoi's company Koto Laboratory and Bandai, and was the last piece of hardware Yokoi developed before his death in 1997. Released in 1999 in the fifth generation of video game consoles, the WonderSwan and its two later models, the WonderSwan Color and SwanCrystal were officially supported until being discontinued by Bandai in 2003. During its lifespan, no variation of the WonderSwan was released outside of Japan."
     },
@@ -4977,7 +5345,60 @@
       "longTitle": "WonderSwan Color",
       "background": "https://github.com/sysconf16/retro-collection/raw/main/images/backgrounds/wonderswanc.webp",
       "backgroundPixelated": false,
-      "items": [],
+      "items": [
+        {
+          "title": "SD Gundam - Operation U.C.",
+          "longTitle": "SD Gundam - Operation U.C.",
+          "type": "wsc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Snaps/output/SD%20Gundam%20-%20Operation%20U.C.%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Titles/resized/SD%20Gundam%20-%20Operation%20U.C.%20(Japan).png",
+          "description": "SD Gundam: Operation U.C. is an Action game, developed and published by Bandai, which was released in Japan in 2002.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Bandai%20-%20WonderSwan%20Color.zip/SD%20Gundam%20-%20Operation%20U.C.%20%28Japan%29.zip"
+          },
+          "added": 1661268631933
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Bandai%20-%20WonderSwan%20Color.zip/Judgement%20Silversword%20-%20Rebirth%20Edition%20%28Japan%29%20%28Rev%204321%29.zip"
+          },
+          "type": "wsc",
+          "title": "Judgement Silversword - Rebirth Edition",
+          "added": 1661268675218,
+          "description": "Judgement Silversword was created by independent Japanese designer \"M-KAI\". It was programmed using the WonderWitch, a software development kit produced by Qute that allowed consumers to produce homebrew software for the WonderSwan hardware family using the C programming language. To promote the kit's release, Qute held a contest where programmers had to use it to make a game for the system, the winners having their games published as official releases. Judgement Silversword was one of the winning games, alongside M-KAI's sister project Cardinal Sins, both of which Qute published in Japan. Development lasted roughly a month and a half. The game is believed to be inspired by Treasure's 1998 arcade game Radiant Silvergun.",
+          "longTitle": "Judgement Silversword - Rebirth Edition",
+          "backgroundPixelated": true,
+          "background": "https://www.retrogamer.net/wp-content/uploads/2013/10/112judgementsilversword.png",
+          "thumbnail": "https://i.ytimg.com/vi/RDp7xeEQbsQ/hqdefault.jpg"
+        },
+        {
+          "title": "Grand Battle! Swan Colosseum",
+          "longTitle": "Grand Battle! Swan Colosseum",
+          "type": "wsc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Snaps/output/From%20TV%20Animation%20One%20Piece%20-%20Grand%20Battle%20Swan%20Colosseum%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Titles/resized/From%20TV%20Animation%20One%20Piece%20-%20Grand%20Battle%20Swan%20Colosseum%20(Japan).png",
+          "description": "Grand Battle! Swan Colosseum is a fighting game based on the One Piece manga and anime, released for the WonderSwan Color. A handheld spin-off to Grand Battle! 2, it condenses many of the game elements to a smaller scale, with its story material adapted almost exclusively from the Arabasta Saga.\n\nThe game was developed by Dimps, published by Bandai, and released on July 12, 2002.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Bandai%20-%20WonderSwan%20Color.zip/From%20TV%20Animation%20One%20Piece%20-%20Grand%20Battle%20Swan%20Colosseum%20%28Japan%29.zip"
+          },
+          "added": 1661268700507
+        },
+        {
+          "title": "Rhyme Rider Kerorican",
+          "longTitle": "Rhyme Rider Kerorican",
+          "type": "wsc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Snaps/output/Rhyme%20Rider%20Kerorican%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-wsc-images/master/Named_Titles/resized/Rhyme%20Rider%20Kerorican%20(Japan).png",
+          "description": "You play as the rhyme rider Kerorcian, a vivacious space girl with a large frog helmet, as she skips to the music through the games four stages. The games music is largely comprised of jazzy techno pieces.\r\n\r\nKerorcian skips down a set line while randomly placed enemies and obstacles appear before her. Various button combos will avoid certain obstacles, although a \"one-button\" easy mode is available. When you avoid an obstacle a note will sound, clearing long chains of obstacles will result in funky melodies popping up inside the song that is playing. This gameplay is reminiscent of the studios earlier game Vib Ribbon. \r\n\r\nSome of the obstacles are interactive, such as a rocket one can jump on and ride a short distance, others can merely be kicked out of the way or jumped over.\r\n\r\nOccasionally a crown will appear over an obstacle, if you successfully clear it you will briefly soar over the stage avoiding anything that might have been in your path. This is especially common before obstacles that might require outlandish button combos.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/Bandai%20-%20WonderSwan%20Color.zip/Rhyme%20Rider%20Kerorican%20%28Japan%29.zip"
+          },
+          "added": 1661268709698
+        }
+      ],
       "thumbnail": "https://github.com/sysconf16/retro-collection/raw/main/images/thumbnails/wonderswanc.webp",
       "description": "Bandai announced the WonderSwan Color which would incorporate a color screen while retaining backward compatibility with the original WonderSwan. It was released on December 9, 2000 in Japan and was available in pearl blue, pearl pink, crystal black, crystal blue, and crystal orange. The launch was a moderate success, with the system selling 270,632 units in under a month after its release."
     },
@@ -4995,7 +5416,99 @@
       "longTitle": "Neo Geo Pocket Color",
       "background": "https://github.com/sysconf16/retro-collection/raw/main/images/backgrounds/neogeopocketc.webp",
       "backgroundPixelated": false,
-      "items": [],
+      "items": [
+        {
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/SNK%20-%20Neo%20Geo%20Pocket%20Color.zip/Pocket%20Tennis%20Color%20-%20Pocket%20Sports%20Series%20%28World%29%20%28En%2CJa%29.zip"
+          },
+          "type": "ngc",
+          "title": "Pocket Tennis Color - Pocket Sports Series",
+          "added": 1661268814928,
+          "longTitle": "Pocket Tennis Color - Pocket Sports Series",
+          "description": "Pocket Tennis Color is a game from the Pocket Sports series for the Neo Geo Pocket Color handheld game system. It features eight main characters with two secret, unlockable tennis pros.",
+          "backgroundPixelated": true,
+          "background": "https://videogamecritic.com/images/ngp/pocket_tennis_color.png",
+          "thumbnail": "https://www.retrogamer.net/wp-content/uploads/2016/01/pocket_tennis_color.png"
+        },
+        {
+          "title": "SNK Gals' Fighters",
+          "longTitle": "SNK Gals' Fighters",
+          "type": "ngc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ngc-images/master/Named_Snaps/output/SNK%20Gals'%20Fighters%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ngc-images/master/Named_Titles/resized/SNK%20Gals'%20Fighters%20(USA%2C%20Europe).png",
+          "description": "Organized and sponsored by a mysterious fighter nicknamed as \"Miss X\", the first Queen of Fighters Tournament is officially open, but this competition differs of the others for allowing ONLY women as participants. Meanwhile, after have passed for several and tough fights (including a final showdown with Miss X), the winner will be rewarded with a mystical artifact known as the \"K Talisman\", that has the capacity to grant any wish. With this rare-unique possibility of accomplish their pessoal dreams and ambitions, 8 powerful femme fatale fighters were invited to face the biggest combat of their lives...\n\nBehind this simple storyline, the title brings a cast of 8 all-female characters taken from SNK's fighting series The King of Fighters (Mai Shiranui, Yuri Sakazaki, Athena Asamiya, Leona Heidern, Shermie), The Last Blade (Akari Ichijyou) and Samurai Shodown (Shiki, Nakoruru); all with the same blows (parodied or not) of their origin games.\n\nThe gameplay is identical to KOF's Advanced Mode (e.g. Emergency Evasion and Run commands), but without SDMs. To increase the replay factor, a power-up mode was included: depending on your combat performance, you'll be favored with several random items (e.g. Start with full MAX gauge, Speed Up etc.) that can be used to improve your character for a while.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/SNK%20-%20Neo%20Geo%20Pocket%20Color.zip/SNK%20Gals%27%20Fighters%20%28USA%2C%20Europe%29.zip"
+          },
+          "added": 1661268831237
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/SNK%20-%20Neo%20Geo%20Pocket%20Color.zip/King%20of%20Fighters%20R-2%20-%20Pocket%20Fighting%20Series%20%28World%29%20%28En%2CJa%29.zip"
+          },
+          "type": "ngc",
+          "title": "King of Fighters R-2 - Pocket Fighting Series",
+          "added": 1661268849842,
+          "longTitle": "King of Fighters R-2 - Pocket Fighting Series",
+          "description": "King of Fighters R-2 is a fighting game for the Neo Geo Pocket Color. It's the sequel of King of Fighters R-1. The games features super-deformed sprites of The King of Fighters characters and has a simple gameplay based on Art of Fighting 2. The game is based on The King of Fighters '98 and can transfer data to its Dreamcast title, The King of Fighters: Dream Match 1999.\nThe game also features an extra journey mode which allows the player's favorite character to be buffed up with certain assets. Points earned in this mode can transfer to the Dreamcast port of The King of Fighters '98 to help boost characters and unlock gallery images.",
+          "backgroundPixelated": true,
+          "background": "https://www.giantbomb.com/a/uploads/original/0/2840/2433693-525936-king_of_fighters_r_223.gif",
+          "thumbnail": "https://www.retrogamer.net/wp-content/uploads/2013/10/kofr2.png"
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/SNK%20-%20Neo%20Geo%20Pocket%20Color.zip/SNK%20vs.%20Capcom%20-%20The%20Match%20of%20the%20Millennium%20%28World%29%20%28En%2CJa%29.zip"
+          },
+          "type": "ngc",
+          "title": "SNK vs. Capcom - The Match of the Millennium",
+          "added": 1661268930286,
+          "description": "SNK vs. Capcom: The Match of the Millennium is a fighting game for the Neo Geo Pocket Color. It features a total of 26 characters from SNK and Capcom, eight of which are unlockable.\n\nPlay options includes 2-fighter tag teams, 3-fighter queue teams, and of course, fighting solo. After that, the player can choose either a Capcom-style level meter, an SNK-style charge meter, or a 'neutral' meter that enhances super attacks if full. Every character also has their own rival, whom they will fight at the fourth stage. The last two stages have the player's selected character fighting the tag team of Geese and Bison, then, depending what the side opposite to their character's is, Orochi Iori or Evil Ryu.",
+          "longTitle": "SNK vs. Capcom - The Match of the Millennium",
+          "background": "https://upload.wikimedia.org/wikipedia/en/1/15/SNKvsCapcom_NeoGeoPC.png",
+          "backgroundPixelated": true,
+          "thumbnail": "https://yourfellowgeek.files.wordpress.com/2019/03/39.png"
+        },
+        {
+          "title": "Rockman - Battle & Fighters",
+          "longTitle": "Rockman - Battle & Fighters",
+          "type": "ngc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ngc-images/master/Named_Snaps/output/Rockman%20-%20Battle%20%26%20Fighters%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ngc-images/master/Named_Titles/resized/Rockman%20-%20Battle%20%26%20Fighters%20(Japan).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/SNK%20-%20Neo%20Geo%20Pocket%20Color.zip/Rockman%20-%20Battle%20%26%20Fighters%20%28Japan%29.zip"
+          },
+          "added": 1661269004254,
+          "description": "Rockman Battle & Fighters is a fighting game similar to the two arcade titles Mega Man: The Power Battle, and Mega Man 2: The Power Fighters. Playing as one of four characters (Mega Man, Proto Man, Bass, and Duo), the player chooses between three sets of boss battles with various Robot Masters from the series. The battles are fought linearly in any order, and after each boss is defeated, a special weapon is added to the player's arsenal. Each boss is weak to one specific weapon, so the player is encouraged to strategize the order in which the bosses are faced. Two players can use a link cable to transfer database information between systems, but no co-op or versus play is supported."
+        },
+        {
+          "title": "SNK vs. Capcom - Card Fighters' Clash - SNK Version",
+          "longTitle": "SNK vs. Capcom - Card Fighters' Clash - SNK Version",
+          "type": "ngc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ngc-images/master/Named_Snaps/output/SNK%20vs.%20Capcom%20-%20Card%20Fighters'%20Clash%20-%20SNK%20Version%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ngc-images/master/Named_Titles/resized/SNK%20vs.%20Capcom%20-%20Card%20Fighters'%20Clash%20-%20SNK%20Version%20(USA%2C%20Europe).png",
+          "description": "Compete in the SC Card Fighters' Clash tournament with your SNK deck in this NGPC card game. Collect the 300 cards from both SNK and Capcom franchises and duel and trade with your friends using the extensive link mode. With mechanics similar to CCGs such as Yu-Gi-Oh and popular characters from both SNK and Capcom, Card Fighters clash offers both collection and strategy gameplay. This game also allows linking with SNK vs. Capcom: Match of the Millennium to transfer collectible points.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/SNK%20-%20Neo%20Geo%20Pocket%20Color.zip/SNK%20vs.%20Capcom%20-%20Card%20Fighters%27%20Clash%20-%20SNK%20Version%20%28USA%2C%20Europe%29.zip"
+          },
+          "added": 1661269074052
+        },
+        {
+          "title": "Biomotor Unitron",
+          "longTitle": "Biomotor Unitron",
+          "type": "ngc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ngc-images/master/Named_Snaps/output/Biomotor%20Unitron%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-ngc-images/master/Named_Titles/resized/Biomotor%20Unitron%20(USA%2C%20Europe).png",
+          "description": "Using the ore mined from the Unitice meteor, humans have been able to develop the man-shaped robots known as UNITRONS. As a Unitron master, you control one of these mighty machines as you explore mysterious dungeons and fight for the ultimate prize in the Unitron Arena! Create - Collect - Trade! Build your own weapons for your Unitron using Arms and Material. There are over 200 possible combinations! Battles against fearsome monsters and skilled Unitron masters await you! If you can defeat them all, you too can become... The Master of Masters!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed/SNK%20-%20Neo%20Geo%20Pocket%20Color.zip/Biomotor%20Unitron%20%28USA%2C%20Europe%29.zip"
+          },
+          "added": 1661269094095
+        }
+      ],
       "thumbnail": "https://github.com/sysconf16/retro-collection/raw/main/images/thumbnails/neogeopocketc.webp",
       "description": "The Neo Geo Pocket Color is a 16-bit color handheld video game console manufactured by SNK. It is a successor to SNK's monochrome Neo Geo Pocket handheld which debuted in 1998 in Japan, with the Color being fully backward compatible. The Neo Geo Pocket Color was released on March 16, 1999 in Japan, August 6, 1999 in North America, and on October 1, 1999 in Europe, entering markets all dominated by Nintendo, competing with Nintendo's Game Boy Color."
     },
