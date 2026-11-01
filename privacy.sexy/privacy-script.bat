@@ -7185,15 +7185,6 @@ PowerShell -ExecutionPolicy Unrestricted -Command "$keyPath='HKLM\SOFTWARE\Micro
 
 
 :: ----------------------------------------------------------
-:: --------------Disable outdated Snipping Tool--------------
-:: ----------------------------------------------------------
-echo --- Disable outdated Snipping Tool
-:: Set the registry value: "HKLM\SOFTWARE\Policies\Microsoft\TabletPC!DisableSnippingTool"
-PowerShell -ExecutionPolicy Unrestricted -Command "$registryPath = 'HKLM\SOFTWARE\Policies\Microsoft\TabletPC'; $data =  '1'; reg add 'HKLM\SOFTWARE\Policies\Microsoft\TabletPC' /v 'DisableSnippingTool' /t 'REG_DWORD' /d "^""$data"^"" /f"
-:: ----------------------------------------------------------
-
-
-:: ----------------------------------------------------------
 :: -----------Remove "Meet Now" icon from taskbar------------
 :: ----------------------------------------------------------
 echo --- Remove "Meet Now" icon from taskbar
@@ -7290,6 +7281,87 @@ PowerShell -ExecutionPolicy Unrestricted -Command "$registryPath = 'HKCU\SOFTWAR
 :: Disable app access ({E6AD100E-5F4E-44CD-BE0F-2265D88D14F5}) in older Windows versions (before 1903)
 :: Set the registry value: "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{E6AD100E-5F4E-44CD-BE0F-2265D88D14F5}!Value"
 PowerShell -ExecutionPolicy Unrestricted -Command "$registryPath = 'HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{E6AD100E-5F4E-44CD-BE0F-2265D88D14F5}'; $data =  'Deny'; reg add 'HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{E6AD100E-5F4E-44CD-BE0F-2265D88D14F5}' /v 'Value' /t 'REG_SZ' /d "^""$data"^"" /f"
+:: ----------------------------------------------------------
+
+
+:: ----------------------------------------------------------
+:: ------------Disable app access to call history------------
+:: ----------------------------------------------------------
+echo --- Disable app access to call history
+:: Disable app access (LetAppsAccessCallHistory) using GPO (re-activation through GUI is not possible)
+:: Set the registry value: "HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy!LetAppsAccessCallHistory"
+PowerShell -ExecutionPolicy Unrestricted -Command "$registryPath = 'HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy'; $data =  '2'; reg add 'HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy' /v 'LetAppsAccessCallHistory' /t 'REG_DWORD' /d "^""$data"^"" /f"
+:: Set the registry value: "HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy!LetAppsAccessCallHistory_UserInControlOfTheseApps"
+PowerShell -ExecutionPolicy Unrestricted -Command "$registryPath = 'HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy'; $data =  '\0'; reg add 'HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy' /v 'LetAppsAccessCallHistory_UserInControlOfTheseApps' /t 'REG_MULTI_SZ' /d "^""$data"^"" /f"
+:: Set the registry value: "HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy!LetAppsAccessCallHistory_ForceAllowTheseApps"
+PowerShell -ExecutionPolicy Unrestricted -Command "$registryPath = 'HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy'; $data =  '\0'; reg add 'HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy' /v 'LetAppsAccessCallHistory_ForceAllowTheseApps' /t 'REG_MULTI_SZ' /d "^""$data"^"" /f"
+:: Set the registry value: "HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy!LetAppsAccessCallHistory_ForceDenyTheseApps"
+PowerShell -ExecutionPolicy Unrestricted -Command "$registryPath = 'HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy'; $data =  '\0'; reg add 'HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy' /v 'LetAppsAccessCallHistory_ForceDenyTheseApps' /t 'REG_MULTI_SZ' /d "^""$data"^"" /f"
+:: Disable app capability (phoneCallHistory) using user privacy settings
+:: Set the registry value: "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\phoneCallHistory!Value"
+PowerShell -ExecutionPolicy Unrestricted -Command "$registryPath = 'HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\phoneCallHistory'; $data =  'Deny'; reg add 'HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\phoneCallHistory' /v 'Value' /t 'REG_SZ' /d "^""$data"^"" /f"
+:: Disable app access ({8BC668CF-7728-45BD-93F8-CF2B3B41D7AB}) in older Windows versions (before 1903)
+:: Set the registry value: "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{8BC668CF-7728-45BD-93F8-CF2B3B41D7AB}!Value"
+PowerShell -ExecutionPolicy Unrestricted -Command "$registryPath = 'HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{8BC668CF-7728-45BD-93F8-CF2B3B41D7AB}'; $data =  'Deny'; reg add 'HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{8BC668CF-7728-45BD-93F8-CF2B3B41D7AB}' /v 'Value' /t 'REG_SZ' /d "^""$data"^"" /f"
+:: ----------------------------------------------------------
+
+
+:: Disable app access to phone calls (breaks phone calls through Phone Link)
+echo --- Disable app access to phone calls (breaks phone calls through Phone Link)
+:: Disable app access (LetAppsAccessPhone) using GPO (re-activation through GUI is not possible)
+:: Set the registry value: "HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy!LetAppsAccessPhone"
+PowerShell -ExecutionPolicy Unrestricted -Command "$registryPath = 'HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy'; $data =  '2'; reg add 'HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy' /v 'LetAppsAccessPhone' /t 'REG_DWORD' /d "^""$data"^"" /f"
+:: Set the registry value: "HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy!LetAppsAccessPhone_UserInControlOfTheseApps"
+PowerShell -ExecutionPolicy Unrestricted -Command "$registryPath = 'HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy'; $data =  '\0'; reg add 'HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy' /v 'LetAppsAccessPhone_UserInControlOfTheseApps' /t 'REG_MULTI_SZ' /d "^""$data"^"" /f"
+:: Set the registry value: "HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy!LetAppsAccessPhone_ForceAllowTheseApps"
+PowerShell -ExecutionPolicy Unrestricted -Command "$registryPath = 'HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy'; $data =  '\0'; reg add 'HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy' /v 'LetAppsAccessPhone_ForceAllowTheseApps' /t 'REG_MULTI_SZ' /d "^""$data"^"" /f"
+:: Set the registry value: "HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy!LetAppsAccessPhone_ForceDenyTheseApps"
+PowerShell -ExecutionPolicy Unrestricted -Command "$registryPath = 'HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy'; $data =  '\0'; reg add 'HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy' /v 'LetAppsAccessPhone_ForceDenyTheseApps' /t 'REG_MULTI_SZ' /d "^""$data"^"" /f"
+:: Disable app capability (phoneCall) using user privacy settings
+:: Set the registry value: "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\phoneCall!Value"
+PowerShell -ExecutionPolicy Unrestricted -Command "$registryPath = 'HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\phoneCall'; $data =  'Deny'; reg add 'HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\phoneCall' /v 'Value' /t 'REG_SZ' /d "^""$data"^"" /f"
+:: ----------------------------------------------------------
+
+
+:: ----------------------------------------------------------
+:: -------Disable app access to messaging (SMS / MMS)--------
+:: ----------------------------------------------------------
+echo --- Disable app access to messaging (SMS / MMS)
+:: Disable app access (LetAppsAccessMessaging) using GPO (re-activation through GUI is not possible)
+:: Set the registry value: "HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy!LetAppsAccessMessaging"
+PowerShell -ExecutionPolicy Unrestricted -Command "$registryPath = 'HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy'; $data =  '2'; reg add 'HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy' /v 'LetAppsAccessMessaging' /t 'REG_DWORD' /d "^""$data"^"" /f"
+:: Set the registry value: "HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy!LetAppsAccessMessaging_UserInControlOfTheseApps"
+PowerShell -ExecutionPolicy Unrestricted -Command "$registryPath = 'HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy'; $data =  '\0'; reg add 'HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy' /v 'LetAppsAccessMessaging_UserInControlOfTheseApps' /t 'REG_MULTI_SZ' /d "^""$data"^"" /f"
+:: Set the registry value: "HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy!LetAppsAccessMessaging_ForceAllowTheseApps"
+PowerShell -ExecutionPolicy Unrestricted -Command "$registryPath = 'HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy'; $data =  '\0'; reg add 'HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy' /v 'LetAppsAccessMessaging_ForceAllowTheseApps' /t 'REG_MULTI_SZ' /d "^""$data"^"" /f"
+:: Set the registry value: "HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy!LetAppsAccessMessaging_ForceDenyTheseApps"
+PowerShell -ExecutionPolicy Unrestricted -Command "$registryPath = 'HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy'; $data =  '\0'; reg add 'HKLM\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy' /v 'LetAppsAccessMessaging_ForceDenyTheseApps' /t 'REG_MULTI_SZ' /d "^""$data"^"" /f"
+:: Disable app capability (chat) using user privacy settings
+:: Set the registry value: "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\chat!Value"
+PowerShell -ExecutionPolicy Unrestricted -Command "$registryPath = 'HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\chat'; $data =  'Deny'; reg add 'HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\chat' /v 'Value' /t 'REG_SZ' /d "^""$data"^"" /f"
+:: Disable app access ({992AFA70-6F47-4148-B3E9-3003349C1548}) in older Windows versions (before 1903)
+:: Set the registry value: "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{992AFA70-6F47-4148-B3E9-3003349C1548}!Value"
+PowerShell -ExecutionPolicy Unrestricted -Command "$registryPath = 'HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{992AFA70-6F47-4148-B3E9-3003349C1548}'; $data =  'Deny'; reg add 'HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{992AFA70-6F47-4148-B3E9-3003349C1548}' /v 'Value' /t 'REG_SZ' /d "^""$data"^"" /f"
+:: Disable app access ({21157C1F-2651-4CC1-90CA-1F28B02263F6}) in older Windows versions (before 1903)
+:: Set the registry value: "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{21157C1F-2651-4CC1-90CA-1F28B02263F6}!Value"
+PowerShell -ExecutionPolicy Unrestricted -Command "$registryPath = 'HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{21157C1F-2651-4CC1-90CA-1F28B02263F6}'; $data =  'Deny'; reg add 'HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAccess\Global\{21157C1F-2651-4CC1-90CA-1F28B02263F6}' /v 'Value' /t 'REG_SZ' /d "^""$data"^"" /f"
+:: ----------------------------------------------------------
+
+
+:: ----------------------------------------------------------
+:: ---------------------Remove Game Bar----------------------
+:: ----------------------------------------------------------
+echo --- Remove Game Bar
+:: Uninstall 'Microsoft.XboxGamingOverlay' Store app
+PowerShell -ExecutionPolicy Unrestricted -Command "Get-AppxPackage 'Microsoft.XboxGamingOverlay' | Remove-AppxPackage"
+:: Mark 'Microsoft.XboxGamingOverlay' as deprovisioned to block reinstall during Windows updates.
+:: Create "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Appx\AppxAllUserStore\Deprovisioned\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe" registry key
+PowerShell -ExecutionPolicy Unrestricted -Command "$keyPath='HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Appx\AppxAllUserStore\Deprovisioned\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe'; $registryHive = $keyPath.Split('\')[0]; $registryPath = "^""$($registryHive):$($keyPath.Substring($registryHive.Length))"^""; if (Test-Path $registryPath) { Write-Host "^""Skipping, no action needed, registry path `"^""$registryPath`"^"" already exists."^""; exit 0; }; try { New-Item -Path $registryPath -Force -ErrorAction Stop | Out-Null; Write-Host "^""Successfully created the registry key at path `"^""$registryPath`"^""."^""; } catch { Write-Error "^""Failed to create the registry key at path `"^""$registryPath`"^"": $($_.Exception.Message)"^""; }"
+:: Uninstall 'Microsoft.XboxGameOverlay' Store app
+PowerShell -ExecutionPolicy Unrestricted -Command "Get-AppxPackage 'Microsoft.XboxGameOverlay' | Remove-AppxPackage"
+:: Mark 'Microsoft.XboxGameOverlay' as deprovisioned to block reinstall during Windows updates.
+:: Create "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Appx\AppxAllUserStore\Deprovisioned\Microsoft.XboxGameOverlay_8wekyb3d8bbwe" registry key
+PowerShell -ExecutionPolicy Unrestricted -Command "$keyPath='HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Appx\AppxAllUserStore\Deprovisioned\Microsoft.XboxGameOverlay_8wekyb3d8bbwe'; $registryHive = $keyPath.Split('\')[0]; $registryPath = "^""$($registryHive):$($keyPath.Substring($registryHive.Length))"^""; if (Test-Path $registryPath) { Write-Host "^""Skipping, no action needed, registry path `"^""$registryPath`"^"" already exists."^""; exit 0; }; try { New-Item -Path $registryPath -Force -ErrorAction Stop | Out-Null; Write-Host "^""Successfully created the registry key at path `"^""$registryPath`"^""."^""; } catch { Write-Error "^""Failed to create the registry key at path `"^""$registryPath`"^"": $($_.Exception.Message)"^""; }"
 :: ----------------------------------------------------------
 
 
