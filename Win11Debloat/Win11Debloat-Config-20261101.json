@@ -35,6 +35,8 @@
                  "FarmVille2CountryEscape",
                  "Microsoft.WindowsFeedbackHub",
                  "Flipboard",
+                 "Microsoft.XboxGamingOverlay",
+                 "Microsoft.XboxSpeechToTextOverlay",
                  "HiddenCity",
                  "AD2F1837.myHP",
                  "AD2F1837.HPAIExperienceCenter",
@@ -76,6 +78,7 @@
                  "Clipchamp.Clipchamp",
                  "XP9CXNGPPJ97XX",
                  "Microsoft.Edge, XPFFTQ037JWMHS",
+                 "Microsoft.WindowsStore",
                  "MSTeams",
                  "MicrosoftTeams",
                  "Microsoft.Todos",
@@ -133,7 +136,6 @@
                  "SAMSUNGELECTRONICSCO.LTD.SamsungStudio",
                  "Microsoft.SkypeApp",
                  "SlingTV",
-                 "Microsoft.ScreenSketch",
                  "Microsoft.MicrosoftSolitaireCollection",
                  "Microsoft.WindowsSoundRecorder",
                  "SpotifyAB.SpotifyMusic",
@@ -150,7 +152,10 @@
                  "MicrosoftWindows.Client.WebExperience",
                  "WinZipUniversal",
                  "Microsoft.GamingApp",
-                 "Microsoft.XboxApp"
+                 "Microsoft.XboxApp",
+                 "Microsoft.XboxGameOverlay",
+                 "Microsoft.XboxIdentityProvider",
+                 "Microsoft.Xbox.TCUI"
              ],
     "Tweaks":  [
                    {
@@ -215,6 +220,10 @@
                    },
                    {
                        "Value":  true,
+                       "Name":  "DisableDVR"
+                   },
+                   {
+                       "Value":  true,
                        "Name":  "DisablePaintAI"
                    },
                    {
@@ -248,6 +257,10 @@
                    {
                        "Value":  true,
                        "Name":  "DisableAISvcAutoStart"
+                   },
+                   {
+                       "Value":  true,
+                       "Name":  "DisableGameBarIntegration"
                    },
                    {
                        "Value":  true,

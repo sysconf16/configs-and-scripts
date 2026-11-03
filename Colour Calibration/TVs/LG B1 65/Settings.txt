@@ -1,0 +1,25 @@
+Filmmaker Mode (User)
+Aspect Ratio - Original
+
+Advanced Settings:
+
+Brightness:
+Oled Pixel Brightness - 61
+Adjust Contrast - 85
+Screen Brightness - 39
+Gamma(Adjust Brightness) - 2.2
+Black Level - Auto
+
+Colour:
+Colour Depth - 50
+Tint - 0
+White Balance:
+Colour Temperature - Warm 50
+Method - 2 Points
+Point - High
+Red - -6
+Green -5
+Blue - 0
+
+Clarity:
+Adjust Sharpness - 10
